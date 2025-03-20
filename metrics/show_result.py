@@ -124,7 +124,9 @@ def get_page_split(samples, page_info):   # Page level metric
     if result_list.get('Edit_dist'):
         df = pd.DataFrame(result_list['Edit_dist'])
         up_total_avg = df.groupby(["image_name", "attribute"]).apply(lambda x: (x["score"]*x['upper_len']).sum() / x['upper_len'].sum()).groupby('attribute').mean()  # At page level, accumulate edits, denominator is sum of max(gt, pred) from each sample
+        up_total_var = df.groupby(["image_name", "attribute"]).apply(lambda x: (x["score"]*x['upper_len']).sum() / x['upper_len'].sum()).groupby('attribute').var()
         result['Edit_dist'] = up_total_avg.to_dict()
+        result['Edit_dist_var'] = up_total_var.to_dict()
     for metric in result_list.keys():
         if metric == 'Edit_dist':
             continue
