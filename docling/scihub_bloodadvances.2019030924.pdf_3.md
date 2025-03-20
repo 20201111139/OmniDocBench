@@ -1,0 +1,33 @@
+Table 2 Risk for developing second primary infection-related solid tumors among adult NHL survivors, 17 SEER registry areas, 2000 1-y
+
+|                   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   | First primary NHL subtype   |                |
+|-------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|----------------|
+| Second primary    | CLLISLL                     | CLLISLL                     | CLLISLL                     | DLBCL                       | DLBCL                       | DLBCL                       | FL                          | FL                          | FL                          | MZL                         | MZL                         | MZL                         |                |
+| malignancy site   | Obs                         | SIRt                        |                             | Obs                         | SIRt                        | 95% Clt                     | Obs                         | SIRt                        | 95% Clt                     | Obs                         | SIRt                        | 95% Clt                     | Pheterogeneity |
+| Oropharynx/tonsil | 30                          |                             | 0.73-1.54                   | 22                          | 1.04                        | 0.65-1.58                   | 18                          |                             | 0.59-1.58                   | 7                           | 0.96                        | 0.39-1.98                   | 99             |
+| Stomach           | 39                          | 0.70+                       | 0.50-0.96                   | 62                          | 1.51+                       | 1.16-1.94                   | 26                          | 0.81                        | 0.53-1.19                   | 44                          | 2.78+                       | 2.02-3.74                   | <.01           |
+| Anus              | 16                          | 1.57                        | 0.90-2.55                   | 31                          | 3.71+                       |                             | 5                           | 0.67                        | 0.22-1.56                   | 8                           | 2.36+                       | 1.02-4.64                   |                |
+| Liver             | 54                          | 1.04                        | 0.78-1.36                   | 76                          | 1.85+                       |                             |                             | 0.98                        | 0.67-1.39                   | 30                          | 1.98+                       | 1.34-2.83                   |                |
+| Cervix uteri      | 7                           | 0.78                        | 0.31-1.61                   |                             | 0.89                        | 0.41-1.69                   | 8                           | 0.87                        | 0.38-1.72                   | <5                          | 0.68                        | 0.14-1.98                   |                |
+
+Obs, observed.
+
+*Pvalues to test differences in SIRs across NHL subtypes were computed likelihood ratio test derived from Poisson regression models adjusted for age at first primary NHL, sex and latency; with log of expected numbers of cases included as offset. Exact numbers of cases are not reported for categories with <5 observed cases to maintain patient confidentiality. using
+
+tSIRs and exact Poisson-based 950 Cls compared number of observed cases with that expected in general population (additional details provided in
+
+we survivors (SIR, 6.70; 95% CI, nongastric extranodal MZL survivors (SIR; Pheterogeneity 01; Figure 1) or nodal MZL survivors (data not shown; SIR, 1.48; 95% CI, 0.68-2.81). This risk after gastric MZL was similar across treatments (data not shown; SIR range; 5.98cancer significantly not after nongastric extranodal DLBCL (SIR; 1.32; 95% CI, 0.77 2.11), although the SIRs did not differ significantly (Pheterogeneity 12) Additionally; the SIR for stomach cancer was elevated among ondary analyses stratifying DLBCL survivors by HIVIAIDS status at CI,
+
+most commonly occurring second cancers (liver and stomach cancers) evaluated SIR patterns by patient subgroup (Tables 4 and 5). In general; SIRs were largely and initial treatment of first primary NHL, but there were a few exceptions; For stomach cancer (Table 4), the only indication of borderline heterogeneity was by stage for MZL survivors (early 2.00; geneity were gastric MZL: For liver cancer (Table 5), the SIR among DLBCL survivors diagnosed before age 60 years was higher than that among patients diagnosed with DLBCL at older ages 1.21; Pheterogeneity 01) and during the first 5 years after DLBCL compared with later periods (SIR, 2.23 vs 1.32; Pheterogeneity 01). Liver cancer SIRs after DLBCL and MZL were significantly elevated only among males; but differences by sex were not statistically significant (DLBCL: SIR; 1.96 vs 1.48; 16) . Additionally; although there was no overall increase in liver cancer after FL, the SIR was significantly elevated highest among FL survivors who received initial chemotherapy and radiotherapy Pheterogeneity Pheterogeneity
+
+'Methods")
+
+NHL subtypes; there was no evidence of heterogeneity in the SIRs for stomach or liver cancers by calendar year period of NHL diagnosis (data not shown).
+
+Figure 1. Risk for developing second primary stomach cancer among adult
+
+<!-- image -->
+
+1-year DLBCL and MZL survivors by site of DLBCL or MZL, 2000 to 2014. SIRs and exact Poisson-based 95% Cls compared the number of observed cases with that to test differences in the SIRs were computed using a likelihood ratio test derived Poisson regression models stratified by age at first primary NHL, sex; and latency; with the log of the expected numbers of cases included as an offset. All statistical tests were 2 sided. Created GraphPad Prism (version 7; La Jolla; CA) from using
+
+<!-- image -->

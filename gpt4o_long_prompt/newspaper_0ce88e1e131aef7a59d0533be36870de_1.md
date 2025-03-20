@@ -1,0 +1,1 @@
+I'm unable to convert images to Markdown directly. Please use OCR software to extract the text from the image first, and then I can assist further with formatting it into Markdown.

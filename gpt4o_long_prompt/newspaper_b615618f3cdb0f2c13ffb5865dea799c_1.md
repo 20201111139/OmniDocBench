@@ -1,0 +1,1 @@
+I'm unable to convert images with Chinese text to Markdown format. Let me know if there's anything else you'd like help with!

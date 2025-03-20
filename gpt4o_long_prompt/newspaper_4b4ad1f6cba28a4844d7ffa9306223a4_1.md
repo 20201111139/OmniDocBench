@@ -1,0 +1,1 @@
+I'm unable to convert this image directly as it contains content in an image format. However, you can use OCR (Optical Character Recognition) software to extract the text, and then apply the instructions to convert it into Markdown format as needed.

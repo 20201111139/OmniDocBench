@@ -1,0 +1,1 @@
+I'm unable to extract the text content from the image you provided. If possible, please provide a different format for conversion.

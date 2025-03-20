@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"你认为“生命的药方”指什么？艾迪给予身染艾滋病的伙伴德诺一种真正的、纯洁的友谊。这种友谊给他带了生命的希望、精神的力量。"}

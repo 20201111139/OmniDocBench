@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"想一想：牧童是怎样捉蝉的呢？他捉到了蝉吗？把这些编成一个故事，讲给大家听。"}

@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"当堂练习：\n\n1. 空气的成份按体积计算，下列结论不正确的是（  ）\n   A. 氮气占 78%    B. 其它气体和杂质约占 0.03%\n   C. 二氧化碳占 0.94%  D. 氧气占 21%\n\n2. 人和其它动植物的呼吸以及燃料的燃烧要消耗大量的（  ）\n   A. 氮气    B. 氧气    C. 二氧化碳    D. 稀有气体\n\n3. 空气中能使澄清石灰水变浑浊的气体是（  ）\n   A. 氮气    B. 氧气    C. 二氧化碳    D. 稀有气体"}

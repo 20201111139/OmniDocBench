@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"情境导入\n\n小朋友们正在游泳呢！我们根据这个图能列出几个加减法算式呢？"}

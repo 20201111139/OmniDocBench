@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"1. （2021 山东青岛中考）下列属于二次能源的是（C ）\nA. 水能  B. 风能  C. 电能  D. 太阳能\n\n2. （2021 广西柳州中考）下列能源中，属于可再生能源的是（C ）\nA. 煤  B. 石油  C. 风能  D. 天然气"}

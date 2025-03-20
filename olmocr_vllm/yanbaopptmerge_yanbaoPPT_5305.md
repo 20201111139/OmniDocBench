@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"布置作业\n\n利用课余时间，和自己周围的人进行交流，了解更多人的童年生活。"}

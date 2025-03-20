@@ -1,0 +1,25 @@
+## ETIOLOGY
+
+Injury to peripheral nerve can occur by means of sev eral mechanisms: stretching, compression (i.e., sustained compression blunt trauma), friction; inflammation; or laceration\_ The clinical results of stretching or compres sion of the nerve vary depending on whether the insult has rapid onset or is the result of a gradual change. A sudden insult does not allow for any adaptive in the connective tissue of the nerve and is more likely to cause acute disruption of the nerve's blood supply or connective tissue. Conversely, the nerve can adapt amazingly well to a slow increase in tensile or compressive forces, such as that brought on by a growing osteophyte: 12 A classification of peripheral nerve injuries is presented in Table 25-1.13-16 change
+
+## Classification of Nerve Injuries 3-16
+
+TABLE 25-1
+
+| TYPE                    | FUNCTION                                                                                                                                 |                                                                                             |                                                                                                 |                                                                                                                                                                                          |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Seddon's Classification | Sunderland's Classification                                                                                                              | Pathological Basis                                                                          | Possible Causes                                                                                 | Prognosis                                                                                                                                                                                |
+| Neurapraxia             | Focal conduction block Primarily motor function and proprioception are affected Some sensation and sympathetic function possibly present | Local primarily larger fibers Axonal continuity No Wallerian degeneration myelin injury     | Electrolyte imbalances Deformation of sheaths Ischemia caused by compression or traction myelin | Recovery within minutes, hours, or days if lesion was caused by anoxia or ionic imbalances Mechanical compression or stretch may recover in wecks to months Axonal regeneration required |
+|                         | Type 3: Loss of nerve conduction at injury site and distally                                                                             | intact Loss of axonal continuity and endoneurial tubes Perincurium and epincurium preserved | Compression                                                                                     | Disruption of endoneurial tubes, hemorrhage, and edema, producing scarring Axonal misdirection possible Poor prognosis                                                                   |
+|                         | Type 4: Loss of nerve conduction at injury site and distally                                                                             | Damage to endoncurium and perineurium Epincurium remains intact                             | Compression                                                                                     | Surgery possibly required Intraneural scarring and axonal Poor prognosis Surgery required                                                                                                |
+| Neurotmesis             | Type 5: of nerve conduction at injury site and distally Loss                                                                             | Severance of entire nerve                                                                   | Compression Traction Laceration                                                                 | Surgical resection and repair only means of recovery; full recovery unlikely Factors that affect extent of recovery: injured, level at which nerve                                       |
+
+## Mechanisms of Peripheral Nerve Injury
+
+- Stretching
+- Compression
+- Friction
+- Inflammation
+- Laceration
+
+Compression of the nerve can be caused by external sources Or by swelling (e.g., inflammation) with con comitant increase in   pressure in rigid   compartment (e.g., carpal tional] syndrome of the leg compressing the fibular A nerve can be directly compressed, deep

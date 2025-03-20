@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"爆竹声中一岁除\n\nbào  bào\n\n爆：火 + 暴\n\nyú\n\n余\n\nchú  chú\n\n除：匕 + 余"}

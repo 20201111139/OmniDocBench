@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"陈忠实\n\n陈忠实，1942年出生，中国当代作家。其作品以小说和散文为主，代表作有《白鹿原》、《废都》等。他的作品深受读者喜爱，被誉为“陕北文学的代表人物”。"}

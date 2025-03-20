@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"课堂小结\n\n地形和地势\n\n地形类型多样\n山区面积广大\n地势西高东低 呈阶梯状分布\n\n四大高原\n四大盆地\n三大平原\n主要山脉\n山区面积大的利与弊\n\n三级阶梯的界线、海拔、主要地形\n地势特点对我国的影响"}

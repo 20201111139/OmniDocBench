@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"2. 控制方框图如图 15-2 所示\n\n![图 15-2]\n\n图中系数分别为：\\( c_1 = 1, \\quad c_2 = -\\frac{\\lambda_1}{\\lambda_2} \\)\n\n3. 控制阀为气开阀，FC 控制器为反作用控制器，PC 为反作用控制器"}

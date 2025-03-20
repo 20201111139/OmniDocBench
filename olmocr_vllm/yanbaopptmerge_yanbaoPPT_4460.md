@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"本课突出艺术特色归纳\n\n1. 恰当运用“兴”的手法。\n\n如本诗的开头“关关雎鸠，在河之洲”，用一唱一和的雎鸠鸣叫，引起所咏之词“窈窕淑女，君子好逑”。"}

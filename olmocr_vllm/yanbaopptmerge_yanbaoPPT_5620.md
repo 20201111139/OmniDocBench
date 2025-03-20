@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"164. 欢喜承受大自然的每一落笔，笔笔都是天意，生命没有败笔。\n——扎西拉姆·多多《喃喃》"}

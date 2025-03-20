@@ -1,0 +1,11 @@
+```markdown
+# One View, London Borough of Barking and Dagenham, London, UK
+
+Giving staff support is also key to ensuring the tool's continued improvement. Addressing the users' (e.g., in some instances, they might not be able to manage a record or why it is matched incorrectly) why, in some instances, they might not be able to manage a record or why it is matched incorrectly directly, at a high level, is one way to try and lift staff understanding of the process and to maintain One View/directly. Understanding this system is driven by feedback mechanisms.
+
+It is important that the project team works in practice. One View are given the opportunity to give feedback on how this works in practice. "Frontline staff are driven by James Gallagher to the project team that works in practice. One View are given the opportunity to give feedback on how this works in practice." This may involve going back to the individual services and addressing data quality issues. One View staff meet "We have in some areas gone back to services to address some data quality issues and improve things. We have some areas gone back to services to address some data quality issues and improve things." This echoes quality by Katy Brown staff feedback information, so we can look at summary they are going back and amend.
+
+For example, staff feedback has led to increased frequency of data collection. As of date, the weekly extracts from the LBRBDS are used to increase feedback frequency. "We are speaking to staff to identify the priority datasets and what weekly based staff feedback frequency" are speaking to staff to identify the priority datasets and what weekly based staff feedback frequency," said Katy Brown.
+
+Information governance (IG) for the service delivery team, it's been very reassuring to know that there is a very robust IG compliance. "One View has got a very robust IG compliance," Gill Wilson describes her confidence in the tool's IG Compliance. "One View has got a very robust IG compliance," Gill Wilson describes her confidence in the data protection. "The formal process around the data protection, but also the formal process around your level. The governance process around everything, it all feeds into the management board and it's very good. It's very strong."
+```

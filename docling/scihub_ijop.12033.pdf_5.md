@@ -1,0 +1,30 @@
+with Life (SWL), Depression and Anxiety through integrative self-knowledge; self-control and mindfulness factors
+
+|                                  | Self-esteem 959 CI   | Self-esteem 959 CI   | Self-esteem 959 CI   |       |        |       | Depression 959 CI   | Depression 959 CI   | Depression 959 CI   | Anxiety   | Anxiety   | Anxiety   |
+|----------------------------------|----------------------|----------------------|----------------------|-------|--------|-------|---------------------|---------------------|---------------------|-----------|-----------|-----------|
+| Mediator                         |                      | Lower                | Upper                |       | Lower  | Upper |                     | Lower               | Upper               |           | Lower     | Upper     |
+| Integrative Self-Knowledge (ISK) | 149                  | 195                  | 109                  |       |        |       | 118                 | 074                 | 167                 | 165       | 120       | 215       |
+| Self-Control (SC)                | 092                  | 129                  | 059                  |       |        |       | 056                 | 022                 | 092                 |           |           |           |
+| ISK x SC                         |                      |                      |                      | .014  | 035    | 003   |                     |                     |                     |           |           |           |
+| NONR                             | 018                  | 005                  | 034                  |       |        |       |                     |                     |                     | 049       | 032       | 072       |
+| OBS                              | 015                  | 030                  | 005                  |       |        |       | 029                 | 016                 | 048                 | ~         | 030       |           |
+| ACTA                             | 038                  | .063                 | 015                  | 068   | 109    | = 036 | 075                 | 050                 | 103                 |           |           |           |
+| DES                              | 044                  | 067                  | .025                 | .028  | ~ .057 | .033  | 032                 | 013                 | 055                 |           | 003       | 048       |
+| NONJ                             | 009                  | 021                  | 001                  | ~ 014 |        | ~ 003 |                     |                     |                     | .009      | 002       | 023       |
+| Total                            |                      | 385                  | .271                 | 2147  | .211   | 085   | 309                 | 255                 |                     | .248      | 194       | 304       |
+
+Note. All analyses controlled for gender and age
+
+than ameliorate the effects of Perceived Stress on Self Esteem. A similar   amplification effect   appeared for OBS in the analysis of   Depression. All   significant FFMQ correlations with psychological scales were in line with theoretical   expectations;   confirming   that each dimension of mindfulness operationalized an adjusted form of self-functioning when examined alone. Amplification rather than the   expected amelioration effects,   therefore;  presumably reflected intricacies in the   dynamic   interactions among these   proposed self regulatory processes not correlate with DES and, perhaps most surprisingly , displayed negative   correlation with OBS. Overall, such findings   confirmed the need to further   examine complexities in mindfulness that have already appeared in the recent research literature (e.g, Feltman; Robinson;
+
+alone Or in interaction with Self-Control, displayed the expected mediation effects with all four dependent regulation only in the mediation of Anxiety. Additional measures in further attempts to understand self-regulation. The one significant interaction between these two mediators did suggest   that an especially   self-insightful self-control might sometimes make   unique contributions to self interaction proved to be significant also implied that any That   Integrative Self-Knowledge   only sometimes   interacts with Self Control to produce significant effects was also apparent Cunningham, 2011).
+
+Failure of all FFMQ factors to correlate positivity with Iran. Baer et al. (2006) similarly reported no positive correlation between OBS and NONJ in one of their American samples. A negative NONJ correlation with OBS and its weaker and less consistent relationships  with the other psychological scales indicated that this factor in particular ically , items in this factor may express problematic ideas within the Iranian Muslim cultural context. Two NONJ statements say, for my perceptions are right or wrong "Imake judgments about whether my thoughts are self-control might make it difficult for Iranians to selfshould examine the religious implications of NONJ in Iranian Muslims. how good
+
+Integrative Self-Knowledge proved to be an especially
+
+## Limitations and conclusions
+
+Conclusions of this study must of course be conditioned by an The focus of this investigation was on self-regulation broadly speaking, and statistical analyses consequently controlled for gender and age. Possible influences of these two controlled variables may be an important future research question.
+
+study were not representative of either the Iranian population process model   of   self-regulation culturally , and confirmation of   that   expectation will require testing in a broader range of cultural  contexts. In such   research\_ to establish the measurement invariance of   instruments across societies and not   just across genders as was the case with the FFMQ in the present study. Previous measurement  invariance of the Integrative Self-Knowledge Scale across Iranian

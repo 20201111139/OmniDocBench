@@ -1,0 +1,7 @@
+Fig 1. Reactor set-up for the culture filtration experiments.
+
+<!-- image -->
+
+## RESULTS AND DISCUSSION
+
+The prcssure pump locatcd down strcam of thc filtcr (Fig 1).  During the filtration process, flux is rclated to the pump suction head according t0 the pump characteristics. As thc filtcr gradually gets clogged, thc pump suction head incrcascs and thc flux dccrcascs . Thc conccpt of using a rotating scrapcr unit placed immcdiately For cxample, Tiller and Chcng (1977) in thcir studv of so-called "delaycd cake filtration" for the filtration of clay slurry, thc cake thickncss was found equivalent t0 the clcarancc between the scrapcr and thc filtcr (3 enough to decrease the cake thickncss. A similar concept has been applicd in FSTR   where thc impeller sits directly above thc filter disk. Of course, the situation is more complex in this case, since the impeller also serves as a mixing and mass transfcr dcvic: To examine the impact of agitation on thc filtration flux in FSTR, incrcascs in pump suction head filtration were measured at I(0 and 200 rpm with (0.4 Agitation rates above 200 rpm were not tcstcd due t0 possible shcar damage on thc Anchusa cells (Lei, 1994). Thc rcsult of the filtration experiment without aeration is shown in Fig 2 was 35 g dry wcighuL (PCV 80%) . Pump speed was sct at min.  Surprisingly, a highcr suction hcad was allaincd at 200 rpm than at 100 rpm Immcdiately after the filtration was initiated, suction hcad was observed, which was followcd by a morc gradual incrcasc. During thc early slagcs of drop during

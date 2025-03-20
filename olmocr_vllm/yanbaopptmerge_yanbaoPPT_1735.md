@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"刘雪庵（1905~1985）\n他是二十世纪中国音乐史上最影响力的音乐家之一。曾长期在中央音乐学院等学校任教，为新中国音乐教育事业培养了一大批优秀人才；他积极从事各种抗日爱国活动，为中国的音乐教育事业做出了不可磨灭的贡献。"}

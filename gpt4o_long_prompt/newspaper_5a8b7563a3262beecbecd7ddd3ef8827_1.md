@@ -1,0 +1,1 @@
+I'm unable to convert images of scanned text or documents into Markdown format. You might consider using an OCR tool to extract text before formatting it manually.

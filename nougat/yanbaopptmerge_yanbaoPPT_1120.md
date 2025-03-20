@@ -1,0 +1,1 @@
+There are fifty teachers in his school.

@@ -1,0 +1,57 @@
+解法 4: \( F(x) = \frac{g(x)}{f(x)} = \frac{\sin(2x + \frac{\pi}{4})}{\sin(2x - \frac{\pi}{4})} \) 定义域为 \( \left\{ x | x \neq \frac{\pi}{8} + \frac{k\pi}{2}, k \in \mathbb{Z} \right\} \)
+
+\[
+F'(x) = \frac{2\cos(2x + \frac{\pi}{4})\sin(2x - \frac{\pi}{4}) - 2\cos(2x - \frac{\pi}{4})\sin(2x + \frac{\pi}{4})}{\sin^2(2x - \frac{\pi}{4})} = \frac{-2}{\sin^2(2x - \frac{\pi}{4})} < 0
+\]
+
+\( F(x) \) 的单调递减区间为 \((-\frac{3\pi}{8} + \frac{k\pi}{2}, \frac{\pi}{8} + \frac{k\pi}{2}), k \in \mathbb{Z} \) 无递增区间。
+
+评分标准:
+1. \( g(x) \) 表达式正确 2 分
+2. 有化简结果正确 2 分：\(-\tan(2x + \frac{\pi}{4})\)，\(-\frac{1}{\tan(2x - \frac{\pi}{4})} \cdot \frac{1 + 2}{\tan 2x - 1} \cdot \frac{-2}{\sin^2(2x - \frac{\pi}{4})} < 0 \)
+3. 单调区间正确 1 分。
+
+注：1. 有正确的体积公式，h 没算对，这 2 分也给！
+2. 没有写出以上的任何一个碎分点，去证明 A1E 垂直与平面 ABCD 的，给 2 分。
+
+有体积公式，给 2 分
+
+18. 解：（1）连接 \( A D_1 \)，因为 \( A E \parallel D_1 C_1 \)，所以 \( A, E, C_1, D_1 \) 四点共面。
+
+因为 \( C_1 E \parallel \) 平面 \( A D_1 A_1 \)，所以 \( A E \) 是过 \( C_1 E \) 与平面 \( A D_1 A_1 \) 的交线。
+
+由线面平行的性质定理，知 \( A D_1 \parallel C_1 E \)。
+
+所以四边形 \( A E C_1 D_1 \) 为平行四边形 2 分
+
+所以 \( A E = D_1 C_1 = \frac{1}{2} D_1 C = \frac{1}{2} \)。
+
+易得 \( \angle A_1 A E = 60^\circ \)，又 \( A A_1 = 1 \)。
+
+所以 \( A_1 E = \sqrt{A_1 A^2 + A_1 E^2 - 2A_1 A \cdot A_1 E \cdot \cos 60^\circ} = \frac{\sqrt{3}}{2} \)，同时可得 \( A_1 E \perp A B \)。
+
+上下底面积分别为 \( S_1, S_2 \)，易求得 \( S_1 = \frac{3}{4}, S_2 = \frac{3}{2} \)。
+
+所以 \( \frac{7\sqrt{3}}{16} = \frac{h}{3} (S_1 + \sqrt{S_1 S_2} + S_2) = \frac{h}{3} (\frac{3}{4} + \sqrt{\frac{3}{4} \times \frac{3}{2}} + \frac{3}{2}) = \frac{7h}{8} \)，从而有 \( h = \frac{\sqrt{3}}{2} \)
+
+所以 \( h = A E \) 2 分
+
+（2）解法 1：由（1）知平面 \( A A_1 B_1 B \) 垂直平面 \( A B C D \)
+
+又 \( B C \perp A B \)，所以 \( B C \perp \) 平面 \( A A_1 B_1 B \)
+
+所以平面 \( B C C_1 B_1 \) 垂直平面 \( A A_1 B_1 B \)
+
+过 \( E \) 作 \( E H \perp B B_1 \) 干 \( H \)，则 \( E H \perp \) 平面 \( B C C_1 B_1 \)
+
+从而 \( \angle C_1 E, H \) 为直线 \( C_1 E \) 与平面 \( B C C_1 B_1 \) 所成角 2 分
+
+\[
+EH = BE \sin 60^\circ = \frac{3\sqrt{3}}{4}
+\]
+
+\[
+C_1 E = C_1 B_1^2 + B_1 E^2 = C_1 B_1^2 + BE^2 + BB_1^2 - 2 \cdot B B_1 \cdot BE \cdot \cos 60^\circ = 2
+\]
+
+所以 \( \sin \angle C_1 E, H = \frac{EH}{C_1 E} = \frac{3\sqrt{6}}{8} \)。 2 分

@@ -1,0 +1,6 @@
+- 1 ) +be + the + A, B, or C?
+- eg Which city is the most beautiful, Beijing, Shanghai or Fuzhou?
+- 2 ) +be + Rxkia + + +
+- eg The Yellow River is the second longest river in China.
+- 3 ) +be + one of + the + +
+- eg She is one of the tallest girls in her calss.

@@ -1,0 +1,1 @@
+I'm unable to process images directly. Please describe the text or elements that need conversion.

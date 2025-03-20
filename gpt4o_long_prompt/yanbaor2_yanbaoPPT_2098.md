@@ -1,0 +1,180 @@
+```markdown
+<table>
+<tr>
+    <th>一级主题词</th>
+    <th>二级主题词</th>
+    <th>三级主题词</th>
+    <th>四级主题词</th>
+    <th>五级主题词</th>
+    <th>六级主题词</th>
+    <th>七级主题词</th>
+</tr>
+<tr>
+    <td rowspan="3">计算机视觉</td>
+    <td rowspan="3">图像处理</td>
+    <td>特征提取</td>
+    <td rowspan="5">机器翻译<br>社交媒体处理</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>图像分割</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>三维重建</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td rowspan="5">语音技术</td>
+    <td>图像拼接</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>图像识别</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>目标检测</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>目标跟踪</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>运动行为分析</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td rowspan="3">特征选择</td>
+    <td>图像标注</td>
+    <td rowspan="3"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>视频标注</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>虚拟现实</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td rowspan="3">机器学习</td>
+    <td rowspan="3">数据降维</td>
+    <td rowspan="3">增强现实</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>语音合成</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>语音识别</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>集成学习</td>
+    <td></td>
+    <td>声音识别</td>
+    <td>Boosting<br>Bagging</td>
+    <td rowspan="3"></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>监督学习</td>
+    <td></td>
+    <td rowspan="2"></td>
+    <td>随机森林<br>旋转森林</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>半监督学习</td>
+    <td>语音增强</td>
+    <td>主成分分析<br>主成分回归</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>强化学习</td>
+    <td></td>
+    <td>语音重塑</td>
+    <td>因子分析</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td>语音系统</td>
+    <td>流形学习</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td rowspan="2"></td>
+    <td rowspan="2"></td>
+    <td>机器学习</td>
+    <td>维度约简分析</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td>局部线性嵌入<br>拉普拉斯特征映射</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>度量学习</td>
+    <td rowspan="2"></td>
+    <td>特征选择</td>
+    <td>标签表示</td>
+    <td rowspan="2"></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td>字典学习</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+</table>
+```

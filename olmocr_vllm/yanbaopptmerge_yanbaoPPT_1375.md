@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"板块二、聚焦\n\n1. 问题引入\n（1）出示桌子和放在讲台上的椅子。\n提问：“同学们比较一下，桌子和椅子哪个高？”\n（2）提问：“如何公平地比较？”\n放在同一平面进行对比。"}

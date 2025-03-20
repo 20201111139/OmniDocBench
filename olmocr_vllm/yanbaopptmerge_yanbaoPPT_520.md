@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"春天 春风 春雨\n\n苏教版 一年级下册\n第一 PPT 模板网 -WWW.1PPT.COM"}

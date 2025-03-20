@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"平谷食用菊花等您采\n\n日产垃圾量不足原来看1/10\n\n拓展生态生活功能，实现三产融合发展\n\n大兴农业“十一五”发展综述\n\n农村合作社发展之路初探\n\n根据《城乡一体化》的数字，平谷区食用菊花等您采。"}

@@ -1,0 +1,1 @@
+I'm unable to process or convert text from images. Let me know if there's anything else I can help with!

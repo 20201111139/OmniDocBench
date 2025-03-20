@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"（1）名词，意态，情趣\n名词，意态，情趣\n是我于花之未开，先享无穷逸致矣。（《芙蕖》）\n——这样我在花没有开放的时候，就已经先享受到无穷的优雅情趣了。"}

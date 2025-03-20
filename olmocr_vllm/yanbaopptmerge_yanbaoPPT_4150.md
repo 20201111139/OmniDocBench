@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"《丰收锣鼓》用了下列民族打击乐器进行演奏，你认识他们吗？请在括号里标上乐器的名称。\n\n- (小锣)\n- (大锣)\n- (钹)\n- (堂鼓)\n- (云锣)\n- (板鼓)"}

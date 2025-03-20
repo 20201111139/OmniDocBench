@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"9. 北京天坛的回音壁应用的声学原理是：(A)\nA. 声音的反射；\nB. 声音在不同介质里传播速度不同；\nC. 回声增强原声；\nD. 声音的传播速度随温度而改变。"}

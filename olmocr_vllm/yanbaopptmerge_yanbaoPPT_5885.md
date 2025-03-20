@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"解冻的小溪丁丁冬冬，\n那是春天的琴声吧？"}

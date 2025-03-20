@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"第三部分\n活动细节管理\n\nThe user can demonstrate on a projector or computer, or print the presentation and make it into a film to be used in a wider field."}

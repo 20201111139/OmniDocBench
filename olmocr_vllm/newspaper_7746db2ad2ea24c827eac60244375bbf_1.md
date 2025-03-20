@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"我国就“新拆迁条例”一次征求公众意见\n\n“行政强拆”拟取消\n\n国家森林防火要求\n\n坚持八个强化做好冬季森林防火\n\n自信葛洋再获“满贯” 渴望“对决”国乒高手\n\n我国将建立国土资源节约集约指标标准"}

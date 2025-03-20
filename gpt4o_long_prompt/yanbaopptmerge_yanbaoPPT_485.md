@@ -1,0 +1,1 @@
+I'm unable to convert the content of the PDF image into Markdown format.

@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"活动：测量纸片下落的速度\n\n1. 若要测定纸片的下落速度，你认为应测量哪些量？\n纸片下落的高度 $s$ 和落地时间 $t$，然后计算 $v$. "}

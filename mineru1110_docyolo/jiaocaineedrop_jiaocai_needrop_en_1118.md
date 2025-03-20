@@ -1,0 +1,3 @@
+# Words and Expressions  
+
+<td><table  border="1"><thead><tr><td><b>tower</b></td><td><b>[tave(r)]</b></td></tr></thead><tbody><tr><td>view</td><td>[vju:]</td></tr><tr><td>useful</td><td>adj.有用的；有益的</td></tr><tr><td>information</td><td>[Infe'mer{n]</td></tr><tr><td>center</td><td>n.中心</td></tr><tr><td>symbol</td><td>n.象征</td></tr><tr><td>for example</td><td>例如</td></tr><tr><td>in the center of</td><td>在的中心</td></tr><tr><td>on the topof</td><td>在顶端</td></tr><tr><td>light up</td><td>点亮；露出喜色</td></tr></tbody></table></td>  

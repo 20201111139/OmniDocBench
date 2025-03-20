@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"教学活动 2\n已知三角形的两边及其夹角，求作三角形\n已知：线段 a，b，∠a，求作：△ABC，使BC = a，AB = c，∠ABC = ∠a\n\n作法与示范\n\n作法\n(1) 作∠MBN = ∠a\n(2) 在射线BM上截取BC = a，在射线BN上截取BA = b\n(3) 连接AC\n则△ABC为所求作的三角形"}

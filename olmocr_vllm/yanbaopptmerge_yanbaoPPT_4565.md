@@ -1,0 +1,1 @@
+{"primary_language":"en","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"Jane: ... look tired ... ?\nKangkang: ... a headache.\nJane: ... sorry to ... ?\nKangkang: ... watched ... last night and ... bed very late.\nJane: Staying up late ... health. ... go ... early and ... feel better ...\nKangkang: ... must ... rest."}

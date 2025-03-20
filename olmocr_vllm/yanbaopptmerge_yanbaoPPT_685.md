@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"在无限的时间和空间里人虽然显得十分藐小，但是人能用自己的智慧和力量研究各种自然科学，发现那些自然法则，这就是人高于自然的地方。所以我们不应怨恨叹息而应该积极进取，战胜自然。"}

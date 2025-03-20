@@ -1,0 +1,13 @@
+![](images/f4cf3c93a6ee37870896f85c621f49d5f379c5cc6a302f697a8748b8da7e290e.jpg)  
+Fig. 2 Test images superimposed: in red the first, in green the second frame (left). The white square indicates the Interrogation Window.On the right the same image with a rectangular artificially saturated area on the first frame   
+Fig. 3 Maps of dissimilarity with Lorentzian, sum of squared 0.7, 0.6 and 0.5 are drawn in red, green, and blue, respectively. The differences and fast correlation. Dissimilarity are subtracted of the  lowest the dissimilarity the darker the background. Abscissa and minimum value and normalized by the maximum value. Contours  ordinate represent guessed displacement in the  $x$  and  $y$  direction, are drawn from O to 1 with a step of 0.05. For reference, the levels  respectively  
+
+![](images/291e77467ed27024ba1c811be0467c6ba9c135a7170bf077de36281b7a735f42.jpg)  
+Fig. 4 Dissimilarity maps on the modified image. Same contour lines and axes as in Fig. 3  
+
+conservation by spurious pixels (outliers) between (e.g.   
+the white square artificially added in the first frame).  
+
+The SSD and cross-correlation are functions defined univocally. Conversely, the Lorentzian depends on a parameter,  $\sigma_{\mathrm{e}}$  ,which tuneshow robust the estimator has to be. As a matter of fact, it should equal the amplitude of the expected differences between pixels fulfilling the BCC. The above maps have been computed with a value equalto26,that is aboutonehalf of the standard deviation of the image gray levels  $(\sigma\,=\,43\,\pm\,0.1$  for both images).  
+
+In order to test the sensitivity of the solution on the parameter   $\sigma_{\mathrm{e}}$  , the dissimilarity map given by the Lorentzian estimator was computed for six different values of  $\sigma_{\mathrm{e}}$  , ranging from 2 to 128; results are plotted in Fig. 5. If one assumes the level of the second peak as an indication of the signal to noise ratio, one should conclude that the values of 26 is not optimal, since the values from 3 up to 13 behaves slightly better, but the results are more or less similar to those obtained with 26. Further increases of the value deteriorate the  $\mathrm{S/N}$  ratio, but also for  $\sigma_{\mathrm{e}}\,=\,128$  , the Lorentzian estimator works noticeably better than SSD or cross-correlation. These results indicate that the Lorentzian estimator performs well for a wide range of values of the parameter, even though the optimal seems to be at about   $1/3$  ofthe  

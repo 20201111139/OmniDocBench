@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"学习目标\n\n1. 默读课文，读懂课文内容，理解“失去的一天”的含义。\n\n2. 学会“荏、砖、涎”3个会认字。\n\n更多全套课件免费下载：第一PPT模板网-WWW.1PPT.COM"}

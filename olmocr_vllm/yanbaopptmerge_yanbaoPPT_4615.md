@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"教学目标\n\n• 知识目标：能学会演唱歌曲《“六一”的歌》。\n• 能力目标：并能用轻松、明亮的声音表现歌曲欢快、活泼的情绪。\n• 情感目标：能大胆地担任领唱或积极参加演唱，并自编身势动作为歌曲伴奏。"}

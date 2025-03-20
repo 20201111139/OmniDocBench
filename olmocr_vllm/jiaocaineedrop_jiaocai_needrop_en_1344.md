@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"知识攀升\n\n例1 老猴子给小猴子分桃，每只小猴分10个桃，就多出9个桃；每只小猴分11个桃则多出2个桃。那么一共有多少只小猴子？老猴子一共有多少个桃子？\n\n例2 小猴子拿出一筐桃子当作一段时间的粮食，如果每天吃6个，还少8个；如果每天吃5个，还少3个。你知道小猴子这筐桃子有多少个吗？"}

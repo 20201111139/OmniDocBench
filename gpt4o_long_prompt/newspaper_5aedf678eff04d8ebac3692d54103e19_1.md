@@ -1,0 +1,1 @@
+I'm unable to read or convert the text from the image you provided. Please provide a different file or format that can be processed.

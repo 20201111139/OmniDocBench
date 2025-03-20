@@ -1,0 +1,52 @@
+# In This Chapter
+
+#### DISK SPACE 14.1
+
+- Finding Available Disk Space: The df Command 14.1.1
+- Summarizing Disk Usage: The du Command 14.1.2
+
+#### MORE UNIX COMMANDS 14.2
+
+- 14.2.1 Displaying Banners: The banner Command
+- 14.2.2 Running Commands at a Later Time: The at Command
+- Revealing the Command Type: The type Command 14.2.3
+- Timing Programs: The time Command 14.2.4
+- 14.2.5 Reminder Service: The calendar Command
+- 14.2.6 Detailed Information on Users: The finger Command
+- Saving and Distributing Files: The tar Command 14.2.7
+
+#### SPELLING ERROR CORRECTION 14.3
+
+- spell Options 14.3.1
+- Creating Your Own Spelling List 14.3.2
+
+#### UNIX SECURITY 14.4
+
+- Password Security 14.4.1
+- 14.4.2 File Security
+- 14.4.3 Directory Permission
+- 14.4.4 The Superuser
+- 14.4.5 File Encryption: The crypt Command
+
+#### USING FTP 14.5
+
+- 14.5.1 FTP Basics
+- 14.5.2 Anonymous FTP
+
+#### WORKING WITH COMPRESSED FILES 14.6
+
+- The compress and uncompressed Commands 14.6.1
+#### THE telnet COMMAND 14.7
+
+#### REMOTE COMPUTING 14.8
+
+- 14.8.1 The Remote Access Command: rpc
+- 14.8.2 The Remote Access Command: rsh
+- The Remote Access Command: rlogin 14.8.3
+
+## COMMAND SUMMARY
+
+### REVIEW EXERCISES
+
+Terminal Session
+

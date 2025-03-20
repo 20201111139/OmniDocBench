@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"合作探究\n\n改对，包括对文章段落的进一步调整和加工。段落安排是否合理，段与段之间是否衔接，详略安排是否恰当等等，都是修改是应该重点关注的。"}

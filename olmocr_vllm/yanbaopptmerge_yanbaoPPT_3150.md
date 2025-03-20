@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"河流对土地的作用\n\n影响侵蚀因素的研究\n\n研究项目：土地的坡度对侵蚀的影响\n\n推测：土地坡度越陡侵蚀越严重，坡度越小侵蚀情况越好\n\n实验方法：对比实验\n要改变的条件：土地坡度\n\n不变的条件：植被情况、雨量大小、土壤结构\n\n实验现象：坡度陡的土地比坡度小的土地水土流失情况严重\n\n实验结果：土地的坡度对侵蚀有影响，坡度越陡侵蚀越严重"}

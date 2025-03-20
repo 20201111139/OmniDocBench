@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"生猪产业要进军品牌时代\n\n不让“三高”牵着鼻子走\n\n新型新型新型新型新型新型\n\n【该生】\n\n让信息化引领生猪产业走上转型之路"}

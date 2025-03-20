@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"若待上林花似锦，出门俱是看花人。\n\n1. 这首诗所写的主要内容是什么？赏析诗中“清”字的妙用。（3 分）\n\n29 即事\n王安石\n径暖草如积，山晴花更繁。\n纵横一川水，高下数家村。\n静憩鸡鸣午，荒寻犬吠昏。\n归来向人说，疑是武陵源。\n\n1. “鸣”“吠”两词在全诗写景方面起到了什么作用？（2 分）\n2. 最后一句运用了什么典故？表达了诗人怎样的思想感情？（3 分）"}

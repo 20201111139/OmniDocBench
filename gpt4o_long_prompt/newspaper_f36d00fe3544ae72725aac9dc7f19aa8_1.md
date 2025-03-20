@@ -1,0 +1,1 @@
+I'm unable to extract or convert text from images directly. However, you can use OCR tools to extract the text from the PDF image and then apply the Markdown formatting as per your needs. If you provide the text, I can help you format it in Markdown.

@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"专题报道\n2011年1月13日 星期五\n编辑：周涛 撰写：何家南 网络编辑：010-68435244 E-mail：sis0318@sinema.com\n\n创新工作方法 谋求突破发展\n——10省区新闻出版局负责人农家书屋建设经验谈\n\n“帮扶模式”给农民“充电”\n\n“两个民生工程”一起做\n\n探索建设和管理的新模式\n\n让先进文化植根农家\n\n整合文化资源 形成建设合力"}

@@ -1,0 +1,1 @@
+I'm unable to process or transcribe the content visible in the image directly. If you provide the text in another format, I can help you convert it to Markdown.

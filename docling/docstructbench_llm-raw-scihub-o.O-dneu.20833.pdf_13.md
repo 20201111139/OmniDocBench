@@ -1,0 +1,17 @@
+mouse brain et this is consistent  with the of the scrape assay   experiment in OUI study. Consistent with the indicate that finding finding
+
+Microtubule dynamics is the cytoskeleton in the migration of neurons DCX is one of the proteins that confer the unique microtubule properties to neurons, and neurons in  early   development have high Phos phorylation of DCX may be a regulatory mechanism neurons. Previous   reports have shown that in vitro phosphorylation of DCX by Cdk5 lowers its affinity to ics (Tanaka et al., 2004). In the present study, we demonstrated weakened the interaction between DCX and tubulin phosphorylation is important for the binding of DCX to tubulin [Figs. 7(B) and 8(A)].  Interestingly , OUr showed elevated DCX phosphorylation at S332 [Fig. 2(B)] and reduced interaction between DCX and tubu ation of DCX by JNK is more critical than phospho because of the greater number of in vivo JNK phorylation sites. It has been shown that Cdk5 phoswhereas JNK phosphorylates DCX at four sites in the mouse brain\_ phos -
+
+JNK activity in the IZ and IZ-CP in the cerebral cortex was high at El4-16 [Hirai et al.\_ 2002; Kawauchi high levels of DCX phosphorylation at JNK sites were observed in these areas (Gdalyahu et al., 2004 and pres activating  subunits and Cdk5   activity was shown to be high in the IZ-CP and CP (Ohshima et al., 2002). The phosphorylation state of DCX by several ki including   JNK and Cdk5, change in different migratory steps in radial migration their morphology from multipolar to bipolar in p35 change
+
+critical function of DCX and DCX phosphorylation by JNK and Cdk5 in migratory behavior in the IZ-CP .
+
+We observed elevated levels of phospho-DCX in the brain (Fig. 2), and roscovitine treat ment did not alter DCXS332 phosphorylation levels in cortical neurons 3(A)]. These the conclusion that Cdk5 does not phosphorylate 5332 of DCX in vivo and also   indicate that the increase in pS332 levels are not the result of release JNK. Because brain (Morelevated levels DCXS332 phosphorylation in putative   classical GSK3ß primed site. However, S332 is probably not a because treatment inhibitors did not affect the phosphorylation level of Because high levels of active JNK have been and migrating neurons in the developing cerebral and cerebellar cortices (Hirai et al., 2002; Kawauchi et al. 2003; 1) , immature neurons may exhibit   high JNK activity. DCX is also highly expressed in immature-stage neurons and levels of DCX are elevated in suggests delay in neuronal maturation in the nohistochemical study of the embryonic brain show that kinase activity with neuronal maturation may be imporparative study of JNK and Cdk5 kinase activities and migratory behavior of neurons as well as analysis of neuronal migration using kinase inhibitors; as demonstrated in et al., 2010), will nistic regulation of these kinases in neuronal migration. Fig ing
+
+The authors thank RRC in RIKEN BSI for the technical assistance to Hayashi in RIKEN BSI for the critical reading of the manu script.
+
+## REFERENCES
+
+Angevine JB, Sidman RL. 1961. Autoradiographic study of cell migration histogenesis of cerebral the mouse. Nature 192.766-768. during
+
+Avila J, Dominguez J Diaz-Nido J. 1994. Regulation of microtubule dynamics by microtubule-associated protein expression and phosphorylation neuronal developduring

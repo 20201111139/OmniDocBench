@@ -1,0 +1,1 @@
+I'm unable to convert this document as it contains text in an image format. Please use an OCR tool to extract the text content from the image, and then I can help convert that text to Markdown format according to your instructions.

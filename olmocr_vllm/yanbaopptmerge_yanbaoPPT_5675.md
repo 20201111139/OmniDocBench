@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"任务驱动一：阅读例1，找出已知条件和问题，把获得的数学信息及问题写出来，并合作解决这个问题。\n\n1. 写出获得的数学信息及问题，列出式子解决这个问题。\n\n每套书有14册，王老师买了12套，求一共买了多少册。\n就是求12个14是多少，用乘法计算，列式：$14 \\times 12$。"}

@@ -1,0 +1,3 @@
+# Example: Symbol Table  
+
+<td><table  border="1"><thead><tr><td><b>Name</b></td><td><b>Type</b></td><td><b>Offset</b></td><td><b>Scope</b></td></tr></thead><tbody><tr><td>inGlobal</td><td>int</td><td>0</td><td>global</td></tr><tr><td>inLocal</td><td>int</td><td>0</td><td>main</td></tr><tr><td>outLocalA</td><td>int</td><td>-1</td><td>main</td></tr><tr><td>outLocalB</td><td>int</td><td>-2</td><td>main</td></tr></tbody></table></td>  

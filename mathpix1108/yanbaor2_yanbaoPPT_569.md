@@ -1,0 +1,272 @@
+表 1：县域数字乡村指标体系及数据可得性
+<table border=1><tr>
+<td>一级指标</td>
+<td>二级指标</td>
+<td>具体指标</td>
+<td>2018</td>
+<td>2019</td>
+</tr>
+
+
+<tr>
+<td rowspan="8">乡村数字基础设施指数( 0.27 )</td>
+<td rowspan="2">信息基础设施指数(0.30)</td>
+<td>每万人的移动设备接入数</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td>每万人的 5 G 基站数</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">数字金融基础设施指数( 0.30 )</td>
+<td>数字金融基础设施覆盖广度</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>数字金融基础设施使用深度</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>
+<table>
+<tr>
+<td>数字商业地标指</td>
+</tr>
+<tr>
+<td>数(0.20)</td>
+</tr>
+</table>
+</td>
+<td>单位面积抓取的商业地标 POI 总数中线上自主注册的商业地标 POI 数占比</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td>农产品终端服务平台指数</td>
+<td>益农信息社村级覆盖率</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">基础数据资源体系指数( 0.20 )</td>
+<td>县域数据中心/数据中台</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>动态监测与反应系统应用</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td rowspan="13">乡村经济数字化指数( 0.40 )</td>
+<td rowspan="3">
+<table>
+<tr>
+<td>数字化生产指数</td>
+</tr>
+<tr>
+<td>(0.40)</td>
+</tr>
+</table>
+</td>
+<td>国家现代农业示范项目建设</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>国家新型工业化示范基地建设</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>所有行政村中淘宝村占比</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">数字化供应链指数(0.30)</td>
+<td>每万人所拥有的物流网点数</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>接收包裹的物流时效</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>物流仓库数</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="6">数字化营销指数
+(0.20)</td>
+<td>每亿元第一产业增加值中农产品电商销售额</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>有无直播销售</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>是否是电子商务进农村综合示范县</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>每万人中的网商数</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>每万人中的农产品电商高级别卖家数</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>每万人中的批发平台的商家数</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>数字化金融指数
+(0.10)</td>
+<td>普惠金融的数字化程度</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">乡村治理数字化指数(0.14)</td>
+<td rowspan="3">
+<table>
+<tr>
+<td>治理手段指数</td>
+</tr>
+<tr>
+<td>(1.00)</td>
+</tr>
+</table>
+</td>
+<td>每万人支付宝实名用户中政务业务使用用户数</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>所有乡镇中开通微信公众服务平台的乡镇占比</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td>生态保护监管数字化水平</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="15">乡村生活数字化指数(0.19)</td>
+<td rowspan="3">
+<table>
+<tr>
+<td>数字消费指数</td>
+</tr>
+<tr>
+<td>(0.28)</td>
+</tr>
+</table>
+</td>
+<td>每亿元社会消费品零售总额中线上消费金额</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>每亿元 GDP 中电商销售额</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>每亿元线上商品消费额中智能消费金额</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="7">
+<table>
+<tr>
+<td>数字文旅教卫指</td>
+</tr>
+<tr>
+<td>数( 0.52 )</td>
+</tr>
+</table>
+</td>
+<td>人均排名前 100 娱乐视频类 APP 使用量</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td>每台已安装 APP 设备的排名前 100 娱乐视频类 APP 平均使用时长</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td>人均排名前 100 教育培训类 APP 使用量</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td>每台已安装 APP 设备的排名前 100 教育培训类 APP 平均使用时长</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td>每万人的线上旅游平台记录景点数</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td>每万人的线上旅游平台记录景点累积评论总数</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td>每万人网络医疗平台注册的来自该县域的医生数</td>
+<td></td>
+<td>$\checkmark$</td>
+</tr>
+<tr>
+<td rowspan="5">数字生活服务指数( 0.20 )</td>
+<td>每万人支付宝用户中使用线上生活服务的人数</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>人均线上生活消费订单数</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>人均线上生活消费金额</td>
+<td>$\checkmark$</td>
+<td></td>
+</tr>
+<tr>
+<td>每万人的网络约车人次</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>每万人的数字地图使用人次</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+注：打勾表示相应指标已经纳入了2018年县域数字乡村指数的计算。由于本指数的构建开始于 2019 年底，部分 2018 年的时点数据已经不可获得，计算中用 2019 年的时点数据进行填补。如果两年数据均不可得，则该指标不被纳入 2018 年县域数字乡村指数的计算。未来年份在测算该指数时将根据数据可得性逐步加入。
+- 3 -

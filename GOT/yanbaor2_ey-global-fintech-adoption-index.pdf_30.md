@@ -1,0 +1,1 @@
+FIGURE 18 | List of SME FinTech services

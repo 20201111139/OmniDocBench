@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":true,"is_diagram":false,"natural_text":"2. 对人体吸入的空气和呼出气体的探究\n\n| 实验步骤 | 实验现象 | 实验结论 |\n| --- | --- | --- |\n| 取其中一瓶呼出的气体和等体积的一瓶空气，将燃着的木条分别插入集气瓶中，盖上玻璃片 | 呼出气体中澄清石灰水变浑浊，空气瓶中无明显现象 | 人呼出的气体中氧气的含量小于空气中氧气的含量 |"}

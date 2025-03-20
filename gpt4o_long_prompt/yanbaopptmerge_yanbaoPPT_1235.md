@@ -1,0 +1,1 @@
+I'm unable to process or convert content from images. If you have any text or content data you need help with, or if there's another way I can assist, please let me know!

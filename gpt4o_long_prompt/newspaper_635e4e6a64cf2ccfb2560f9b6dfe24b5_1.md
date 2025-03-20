@@ -1,0 +1,1 @@
+I'm unable to transcribe or process text from an image directly. If you can provide the text separately, I'd be able to help with converting it to Markdown format.

@@ -1,0 +1,28 @@
+$2,855~\mathrm{cm}^{-1}$   $\mathrm{^l\mathrm{H}{\ N M R}}(\mathrm{CDCl}_{3})$   $\mathrm{CH_{2}=}$  6.3947., 6.2463,  $=\mathrm{C}\,\mathrm{H}$    
+5.7740;NH7.2239;benzyl-  $C H_{2}$  7.1266,7.4601;  $\operatorname{CH}_{3}\,0.9177$   $\mathrm{CH_{3}}$    
+ $\mathrm{CH}_{2}\,1.3244$   $\mathrm{CH}_{3}-\mathrm{CH}_{2}-\mathrm{CH}_{2}\ 1.5$  782;  $\mathrm{CH_{3}{-}C H_{2}{-}C H_{2}{-}C H_{2}{-}\ 2{.}5798}.$  
+
+viscosification of the copolymers[5]. In this work, the polyelectrolytepoly[acrylamide-acrylic acid  $N\cdot$  (4-butyl)phenylacrylamide][P(AM-AA-BPAM)]was synthesized. The rheological properties were investigated in more detailed.Pyrene probe fluorescene, dynamic light scattering, and atom force microscopy (AFM) were used toexplore the conformationalbehaviors whichare dependent on the electrostatic and hydrophobic interactions.  
+
+# Experimental  
+
+Materialsandsynthesisofmonomersandpolymers  
+
+# Polymersynthesis  
+
+AM, 4-butylaniline, was purchased from Fluka Chemical Co. and was used asreceived.AAwas purified by recrystallization from deionizedwater.  
+
+Monomersynthesis  
+
+BPAMwassynthesizedfromthereactionof4-butylanilinewith acryloylchloride,with triethylamine asthe acidreceptor,usingthe method describedbyMcCormicketal.[6].Thecrudeproductwas recrystallizedtwicefromethanolat  $-25~^{\circ}C$  and awhiteproduct obtained.Themeltingpointwas  $92-93\;^{\circ}C$  FTIR (KBr):  ${\bar{C}}=C{-}\mathrm{H}$  3,079,  $3{\mathrm{,0}}29{\mathrm{~cm}}^{-1}$  ；N-H  $3.283~\mathrm{cm}^{-1}$   $\mathbf{C}=\mathbf{C}$   $1.636~\mathrm{cm}^{-1}$   $\mathbb{C}=\mathbb{O}$   $1{,}662~\mathrm{cm}^{-1}$  ;phenol  $1,608~\mathrm{{cm}^{-1}}$   $\mathrm{CH_{3}\it2,952}$   $2.870~\mathrm{cm}^{-1}$   $\mathrm{CH}_{2}\,2,927.$  
+
+A micellar polymerization technique was used to prepare polymers using sodium dodecyl sulfate (SDS) as the surfactant and potassium persulfate as the free-radical initiator [6]. The appropriateamountofionizablemonomer(AA)was dissolved inde- ionizedwaterandthepHwasadjustedto9-10withNaOHto form the water-soluble sodium salt (sodium acrylate). AM, BPAM,and SDS were added respectively,and stirred under  $\mathbf{N}_{2}$  untilaclearsolutionwas observed.The solutionwas thenheated to  $50\;^{\circ}C,$  and the initiator wasadded.Thepolymerization was conductedfor  $12~\mathrm{h}$  Thepolymermixturesweredilutedwith water andprecipitatedintoacetone and thenwashedwithacetone. Thepolymer was dried under reducedpressure at  $40\ ^{\circ}\mathrm{C}$  for  $4\;\mathrm{h}$  The polymers (abbreviation APA  $\cdot/l.$  Scheme 1)used in this study are listed inTable 1.  
+
+# Measurements  
+
+Elemental analysiswas performedwith aElementar-CHNO-Rapiol to determine the carbon,nitrogen, and hydrogen content. The Fourier transformIRmeasurementwas conducted using a Biorad/ Digilab FTS40, and the  $^{1}\mathrm{H}$  NMR measurements were carried out ontheBPAMsolutionin  $\mathrm{CDCl}_{3}$  usingaBrukerAc250.UVspectra wereobtainedwithaSpektralphotometerDMR10.Pyrenefluorescence studies were performed with a Shimadzu RF-5301 PC spectrofluorophotometer  $(\lambda_{\mathrm{EX}}\,{=}\,335\ \mathrm{nm}$   $I_{1}=373$  nm,  $I_{2}\,{=}\,384~\mathrm{nm}$  Viscositymeasurementsandoscillatoryrheologicalmeasurements were conductedwith aBohlinCSrheometerwith a cone/plateor double-gap concentric cylinder measuring geometry with a cone angle of  $4^{\circ}$  and a diameter of  $40\ \mathrm{mm}$  The double-gap device is applicable for low-viscosity liquids. The zero-shear viscosity in dilute solution was measured witha Paar OCR-Doscillating capillaryrheometer.Themeasurement temperature was  $250C$  and shear ratewas  $6~\mathrm{{s}^{-1}}$  unless otherwise noted.The atom force electron micrographsweremadeusingaDigitalInstrumentsNanoscopeIII controller with a Dimension 3100 microscope, and all measurements were performed in tapping mode.Micawafers were employed as the substratefor themeasurements and the samplewas prepared by dip-coating and drying up.Dynamic light scattering studieswere performed at  $60-120^{\circ}$  and the signalswereprocessed withaBrookhavenInstrumentsBI-2030ATautocorrelator.Effectivehydrodynamicdiameterswere calculatedusing the algorithm CONTINand associatedsoftware.  
+
+Table1SynthesisparametersofAPAterpolyme   
+
+
+<td><table  border="1"><thead><tr><td><b>Sample</b></td><td><b>Acrylamide concentration (mo1%)</b></td><td><b>Acrylic acid concentration (mo1%)</b></td><td><b>N-(4-Butyl) phenylacrylamide concentration (mol%)</b></td><td><b>Monomer concentration (%)</b></td><td><b>Initiator concentration (mo1%)</b></td><td><b>Sodium dodecyl sulfate concentration (%)</b></td></tr></thead><tbody><tr><td>APA-0</td><td>75</td><td>25</td><td>0</td><td>8</td><td>0.5</td><td>0</td><td>50</td></tr><tr><td>APA-1</td><td>84.5</td><td>15</td><td>0.5</td><td>8</td><td>0.5</td><td>7</td><td>50</td></tr><tr><td>APA-2</td><td>84.5</td><td>15</td><td>0.5</td><td>8</td><td>0.5</td><td>3.25</td><td>50</td></tr><tr><td>APA-3</td><td>84.5</td><td>15</td><td>0.5</td><td>8</td><td>0.5</td><td>2.2</td><td>50</td></tr><tr><td>APA-4</td><td>84.5</td><td>15</td><td>0.5</td><td>8</td><td>0.5</td><td>1.5</td><td>50</td></tr><tr><td>APA-5</td><td>74.5</td><td>25</td><td>0.5</td><td>8</td><td>0.5</td><td>1.5</td><td>50</td></tr><tr><td>APA-6</td><td>74.5</td><td>25</td><td>0.5</td><td>8</td><td>0.5</td><td>3.25</td><td>50</td></tr><tr><td>APA-7</td><td>94.5</td><td>5</td><td>0.5</td><td>8</td><td>0.5</td><td>3.25</td></tr></tbody></table></td>  

@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"朗诵鉴赏\n\n1. 上片如何表现娄山关的晨境？\n\n2. 下片抒发了怎样的情感？试体会“苍山如海，残阳如雪”的意境。\n\n3. 体会“雄关漫道真如铁，而今迈步从头越”的意韵。"}

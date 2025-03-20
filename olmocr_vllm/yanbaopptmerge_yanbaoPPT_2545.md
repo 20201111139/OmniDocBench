@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"学习目标\n\n1. 通过操作活动，认识平角、周角，知道角之间的大小关系，掌握平角与周角的特征。\n2. 在具体情境中，感知角与生活的密切联系，培养观察能力、动手操作能力及合作交流能力。\n3. 感受数学与实际生活的联系，激发学习兴趣，培养动手动脑的良好学习习惯。"}

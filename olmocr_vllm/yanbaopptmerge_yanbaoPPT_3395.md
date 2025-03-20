@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":true,"is_diagram":false,"natural_text":"| 我的人生理想 | ①________________ |\n|----------------|-------------------|\n| 我的行动计划   | ②________________ |\n\n答案略。（根据自身实际情况回答，符合题意即可）"}

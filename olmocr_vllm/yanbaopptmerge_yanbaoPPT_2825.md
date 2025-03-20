@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"“生物真是人类的好老师”：人类从大自然中得到启示，有所发明创造的事例还有很多，比如前面的课文——《蝙蝠和雷达》等，大家还了解哪些事例？"}

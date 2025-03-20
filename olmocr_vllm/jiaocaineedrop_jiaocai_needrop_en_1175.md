@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"成长小脚丫\n\n愿望\n小小愿望不得了，\n人生努力的航标。\n军人护士和老师，\n驾驶飞船更美妙。\n职业不分高与低，\n造福人类最重要。\n为了理想而努力，\n向着目标快奔跑。"}

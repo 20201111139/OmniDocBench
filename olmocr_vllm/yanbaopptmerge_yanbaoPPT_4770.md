@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"15. 《孝经》\n\n不爱其亲，而爱他人者，谓之悖德。\n\n一个连父母都不爱的人，怎么会爱他人呢？先学会爱父母才能进一步去爱他人。"}

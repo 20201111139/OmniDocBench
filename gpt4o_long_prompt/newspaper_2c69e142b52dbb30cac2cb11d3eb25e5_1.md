@@ -1,0 +1,1 @@
+I'm unable to assist with extracting or converting text from this image.

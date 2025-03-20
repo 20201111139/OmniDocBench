@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"巩固练习\n\n先说说涂色部分各表示多少，再在（ ）里写出分数。\n\n\\[\n\\frac{1}{9} \\quad \\frac{2}{9} \\quad \\frac{5}{9} \\quad \\frac{8}{9} \\quad (\\quad )\n\\]"}

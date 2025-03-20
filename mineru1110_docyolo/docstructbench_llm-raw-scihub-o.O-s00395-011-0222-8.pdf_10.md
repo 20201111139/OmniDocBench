@@ -1,0 +1,6 @@
+![](images/7b92a265f92a595a4dcb7c97826c4677a51a225167b07352875e82ceb4d8f9fe.jpg)  
+Fig. 5 Effect of Akt overexpression (AOE) on aging-induced change Insets: representative gel blots depicting expression and phosphoryin insulin receptor  $\beta$  (panel  $a$  ,PDK1 phosphorylation（panel  $b$  ),Akt lation of these proteins using specific antibodies.  $\mathcal{V}_{\mathrm{v}}$  Tubulin was used phosphorylation (pAkt-to-Akt ratio) at  $S e r^{473}$  (panel  $c$  and  $\mathrm{Thr^{308}}$  as the loading control. Mean  $\pm\ S\mathrm{EM}$   $n=5-7$  mice per group, (panel  $d)$   $\mathrm{GSK3\beta}$  phosphorylation  $\mathrm{(pGSK3\beta)}$  -to-GSK3βratio,panel  $^{*}p<0.05$  versus WT-young group,  $^{\#}p<0.05$  versus WT-old group  $e_{i}^{i}$  ,and PTEN phosphorylation (pPTEN-to-PTEN ratio, panel  $f)$  
+
+an index for lysosomal activity [11, 33], was determined in young or aged WT and Akt transgenic mice. Our data failedtorevealedaltered  $\beta$  glucuronidaseactivityin  
+
+response to aging, Akt overactivation, or both. In addition, the levels of the two autophagy-related lysosomal proteins, cathepsin B and LAMP1, were examined [17, 22]. Neither  

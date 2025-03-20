@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"课后作业\n\n推荐阅读：毕淑敏《向日葵冰花》。"}

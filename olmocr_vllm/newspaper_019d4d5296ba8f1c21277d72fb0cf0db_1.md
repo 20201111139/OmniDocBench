@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"2011年深入开展文化科技卫生“三下乡”活动\n让“三下乡”演绎更多“真情故事”\n\n“醉驾”即“拘役”\n我国拟修改刑法严惩“马路杀手”\n\n韩国军方结束在延坪岛的实弹射击训练\n\n巩固“十一五”好势头 实现“十二五”好开局"}

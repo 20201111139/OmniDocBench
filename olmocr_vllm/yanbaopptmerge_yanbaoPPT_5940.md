@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"备战 2022 新高考作文\n热点素材（三）\n第 10 讲 新时代中国青年"}

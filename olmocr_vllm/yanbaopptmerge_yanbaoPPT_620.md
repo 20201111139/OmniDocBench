@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"远视眼\n晶状体曲度过小或眼球\n前后径过短使物像落在\n视网膜的后方"}

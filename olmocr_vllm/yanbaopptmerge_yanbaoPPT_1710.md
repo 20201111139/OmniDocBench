@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"1. 掌握已知一种反应物（或生成物）的质量，求生成物（或反应物）的质量。\n2. 根据化学方程式计算的书写格式规范化。"}

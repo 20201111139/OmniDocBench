@@ -1,0 +1,38 @@
+19. 解: (1) 取 \(E F\) 的中点 \(G\), 连接 \(D G, C G\)
+\(\because\) 四边形 \(A D E_{1} F_{1}\) 和 \(B C E_{1} F_{1}\) 都是菱形, \(\angle D E_{1} F_{1}=\angle C E_{1} F_{2}=60^{\circ}\)
+\(\therefore D G \perp E F\)
+又 \(B C=2\)
+\(\therefore D G=C G=\sqrt{3}\)
+\(\therefore \frac{4}{e^{2}}\)
+即有 \(D G^{2}+C G^{2}=C D^{2}, D G \perp C G\)
+又 \(C G \cap E F=G, C G, E F \subset\) 平面 \(B C E F\)
+\(\therefore D G \perp\) 平面 \(B C E F\)
+又 \(D G \subset\) 平面 \(A F E D\)
+\(\therefore\) 平面 \(A F E D \perp\) 平面 \(B C E F\)
+(2) 连接 \(D F, D B\)
+由（1）知 \(D G \perp\) 平面 \(B C E F\), 同理 \(C G \perp\) 平面 \(A F E D\)
+且 \(S_{\text {矩形 } E F}=2 \times \sqrt{3}=2 \sqrt{3}, S_{\text {MADE }}=\frac{1}{2} \times 2 \times \sqrt{3}=\sqrt{3}\)
+\(V=V_{D-A B C F}+V_{D-A B F}=V_{D-A B C F}+V_{B-A G F}=1 \frac{3}{5} S_{\text {矩形 } E F C E} \cdot D G+\frac{1}{3} S_{\text {MADE }}\)
+\(=\frac{1}{3} \times 2 \sqrt{3} \times \sqrt{3}+\frac{1}{3} \times \sqrt{3} \times \sqrt{3}\)
+\(=3\)
+20. 解: (1) \(f^{\prime}(x)=\frac{-m x^{2}+2(m-1)+x}{e^{x}}+\frac{-(m x+2)(x-2)}{e^{x}}(m>0)\)
+令 \(f^{\prime}(x)=0\), 解得 \(x=-\frac{2}{m}\) 或 \(x=2\), 且 \(\frac{2}{m}<2\)
+当 \(x \in(-\infty,-\frac{2}{m}:\) 时, \(f^{\prime}(x) \leq 0\), 当 \(x \in\left(-\frac{2}{m}\right)\) 时, \(f^{\prime}(x)>0\),
+当 \(x \in[2,+\infty)\) 时, \(f^{\prime}(x) \leq 0\)
+即 \(f(x)\) 的单调增区间为 \(\left(-\frac{2}{m}, 2\right)\), 单调减区间为 \(\left(-\infty,-\frac{2}{m}\right]\), [2, \(3 \cdots \cdots \cdots \cdots \cdots \cdots \cdots \cdot 5\)
+(2) 由 (1) 知, 当 \(m>0, x \in[1,\) 时, \(f^{\prime}(x)>0\) 恒成立 \(\cdots \cdots \cdots \cdots \cdots \cdots \cd� \cdots \cdots \cdots \cdots \cdots \cdots \times\)
+所以 \(f(x)\) 在 \([1,\) 上为增函数,
+即 \(f(x)_{\text {max }}=f(2)=\frac{4 m+2}{e^{2}}, f(x)_{\text {min }}=f(1)=\frac{m}{e} \cdots \cdots \cdots \cdots \cdots \cdots \frac{8}{e}\)
+\(f\left(x_{1}\right)-f\left(x_{2}\right)\) 的最大值为 \(g(m)=f\left(x_{\text {max }}-f\left(x_{\text {min }}\right)=\frac{(4-e) m+2}{e^{2}} \cdots \cdots \cdots \cdots \cdots \cdots \ldots \cdots \cdots \cdots \cdots \cdots \cdots\right.\)
+\(\because \frac{4}{e^{2}} \leq\left\{\frac{(4-e) m+2}{e^{2}}\right.\),
+即 \(m \leq \frac{2}{4-e}\)
+又 \(m>0 \quad \therefore m \in\left(0, \frac{2}{4-e}\right]\)
+故 \(m\) 的取值范围 \(\left(0, \frac{2}{4-e}\right)\)
+21. 解: (1) \(\because e=\frac{c}{a}=\frac{\sqrt{2}}{2}, \quad c^{2}=\frac{1}{2} a^{2}, \quad \therefore b^{2}=a^{2}-c^{2}=\frac{1}{2} a^{2} \cdots \cdots \cdots \cdots \cdots \cdots\)
+\(\because\) 粗圆的中心 \(O\) 到直线 \(x+y-2 B=0\) 的距离为 \(5 \sqrt{2}\),
+\(\therefore\left|\frac{-2 b}{\sqrt{2}}\right|=5 \sqrt{2}, \therefore b=5 \therefore: b^{2}=25, a^{2}=2 b^{2}=50\).
+\(\therefore\) 粗圆 \(C\) 的方程为 \(\frac{x_{0}}{5}+\frac{y_{0}}{25}=1\)
+(2) 由 (1) 可知 \(F(5,0)\), 由题可知直线 \(A B\) 的方程为 \(y=\sqrt{2}(x-5)\), 与椭圆 \(C\)的方程联立 \(\left\{\begin{array}{l}x^{2}+y^{2} \\ \frac{x^{2}}{50}+\frac{y^{2}}{25}=1\end{array}\right.\), 消去 \(y\) 得 \(x \quad x^{2}-8 x+10=0\)
+设 \(A\left(x_{1}, y_{1}\right), B\left(x_{2}, y_{2}\right)\), 则有 \(x_{1}+x_{2}=8, x_{1} x_{2}=10\)
+设 \(Q(x, y)\), 由 \(Q Q^{2}=\lambda O A+\mu O B\) 得 \((x, y)=\lambda\left(x_{1}, y_{1}\right)+\mu\left(x_{2}, y_{2}\right)=\left(\lambda\left(x_{1}+\mu_{2}, y_{2}\right)+\mu_{2}\right)^{2}\),
+\(\therefore\left\{\begin{array}{l}x=\lambda x_{1}+\mu x_{2} \\ y=\lambda y_{1}+p Q_{2}\end{array}\right.\)

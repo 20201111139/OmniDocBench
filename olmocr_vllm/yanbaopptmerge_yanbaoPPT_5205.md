@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"高考真题，变换句式——题型\n\n2022年高考教育部命制的四套试题中，只有新高考I卷一套试题考察到句式变换，试题形式为长句变短句。虽然只在一套试卷中出现，但出现在有代表性的新高考试题中，其作用与意味是不一般的。\n\n2022年浙江卷语言文字运用部分考察了下定义。"}

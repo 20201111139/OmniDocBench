@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"五、随堂演练（三）\n\n【答案】A\n\n【解析】本题考查学生理解赏析诗歌内容及艺术手法的能力。“风吹雪飞”有误。首句以雪喻梨花，写的是急风中梨花飘飞的景象，而非真正的飞雪之景。"}

@@ -1,0 +1,1 @@
+{"primary_language":"en","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"Look at the giraffe! It’s has a short tail."}

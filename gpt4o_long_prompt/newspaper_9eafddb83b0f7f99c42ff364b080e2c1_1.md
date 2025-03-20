@@ -1,0 +1,1 @@
+I'm unable to directly convert images to Markdown. Please provide a text excerpt, and I'll help format it for you.

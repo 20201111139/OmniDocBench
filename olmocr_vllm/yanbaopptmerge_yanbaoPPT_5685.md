@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"（1）太和殿的外观特点？内景特点？\n外观：抓住色彩特点\n内景：抓住龙的姿态特点\n（2）在描写内景时，说明顺序是什么，立足点是什么？（找出方位词）\n说明顺序：空间顺序\n立足点：正中的朱漆方台\n（3）在众多的宫殿中，作者为什么要选择太和殿作为重点来介绍？\n太和殿是三大殿的中心，是故宫最大的殿堂，是举行重大典礼的地方，地位非常重要，在建筑群中具有代表性。"}

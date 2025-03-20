@@ -1,0 +1,15 @@
+Fig. 3 Time course of the N₂O fluxes from the control (0N) and (NH₄)₂SO₄ (upper figure) and liquid fattening pig manure (traditional farming; lower figure) applied to soil at four application rates: 25 mg N kg⁻¹ (25N), 50 mg N kg⁻¹ (50N), 100 mg N kg⁻¹ (100N), 200 mg N kg⁻¹ (200N). At day 57 water was added (see Fig. 2).
+
+Table 4 Total N₂O emission after application of NH₄NO₃ and liquid pig manure (traditional farming) with different application techniques. For each column, different letters indicate statistically significant differences (α=0.05) in log-transformed N₂O emission between treatments.
+
+| Application method            | NH₄NO₃ (mg N kg⁻¹) | Liquid pig manure | NH₄NO₃ (% of N applied) | Liquid pig manure |
+|-------------------------------|--------------------|-------------------|-------------------------|-------------------|
+| Homogeneously mixed into soil | 2.7                | 7.9               | b                       | 2.1               |
+| Surface applied               | 1.5                | 5.5               | b                       | 0.9               |
+| Placed at 5 cm depth          | 3.7                | 7.5               | b                       | 3.1               |
+| Placed at 10 cm depth         | 4.6                | 4.0               | a                       | 4.0               |
+| Placed in a row at 5 cm depth | 4.9                | 12.9              | c                       | 4.3               |
+
+Discussion
+
+Application of manure and fertilizer increases the amount of mineral N in soil and leads to higher emission of N₂O. Most research so far provides emissions for animal manure as such without discriminating between a range of manure qualities that are found in agricultural practice. The results reported here suggest that N₂O emission may be quite different depending on manure species and related quality and on manure management and handling. Most of these effects can be attributed to specific manure or fertilizer characteristics. Even though our results are from laboratory incubations using a soil with relatively low organic matter content and low pH, they may form the basis for designed testing and verification methods in field conditions and eventually lead to the formulation of...

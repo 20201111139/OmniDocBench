@@ -1,0 +1,10 @@
+```markdown
+# Adoption and Attainment of PCMH Requirements
+
+## PCMH Roadmap
+
+| PCMH Roadmap | NCQA PCMH criteria and gap analysis will guide roadmap development | NCQA website, Gap Analysis, Staff and leadership interviews, Document review (policies, job descriptions, reports), Meeting notes and agendas | Manual collection, Field notes, Observation | Prior to June 30th, 2019 | Doctoral Student, Program Coordinator |
+| --- | --- | --- | --- | --- | --- |
+| Staff Education | Gathering of data to develop educational intervention using NCQA’s PCMH criteria, gap analysis, and roadmap. Delivery of roadmap to Project Coordinator and Executive Director by June 30th, 2019. Delivery of education to key stakeholders by July 31st, 2019. At completion of education intervention, a survey to assess satisfaction of the education will be administered | NCQA website, Clinic branding criteria, Gap analysis, Roadmap, Resources to aid in development of a Likert-type survey to assess satisfaction with education | Manual collection, Field notes, Observation, Post education staff satisfaction Likert-type survey | Education and post satisfaction survey to be completed by July 31st, 2019. | Doctoral student, Program Coordinator, With the assistance of a university statistician, the student will review the results from the 5-point Likert Survey |
+| Return on Investment Analysis | Data will be gathered on an ongoing basis. Utilization of gathered data will guide the business proposal | NCQA website, Estimated salary data from the urban clinic, PCMH gap analysis will guide | Manual collection, Field notes, Observation, Evidence-based literature on ROI with PCMHs and | Developed and completed by July 31st, 2019. | Doctoral Student, Key stakeholders (Project Coordinator, QI Specialist, Executive Director, |
+```

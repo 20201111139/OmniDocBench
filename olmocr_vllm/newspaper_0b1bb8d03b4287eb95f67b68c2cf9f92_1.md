@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"2010年全国粮食生产先进单位、个人及标兵名单\n\n一、全国粮食生产先进单位\n\n二、全国粮食生产先进工作者标兵\n\n三、全国粮食生产先进个人\n\n四、全国粮食生产先进工作者\n\n五、全国粮食生产先进集体\n\n六、全国粮食生产大户"}

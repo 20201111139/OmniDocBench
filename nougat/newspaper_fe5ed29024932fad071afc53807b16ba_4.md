@@ -1,0 +1,17 @@
+size production, large carry-in inventories, and stagnant demand.
+
+## Natural Seedless Producer Prices
+
+There are essentially two broad markets for raising--domestic and export. In recent years, both export and domestic shipments have been decreasing. Domestic shipments decreased from a high of 204,805 packed tons during the 1990-91 crop year to a low of 156,325 packed tons in 1999-2000. In addition, exports decreased from 114,576 packed tons in 1991-92 to a low of 91,600 packed tons in the 1999-2000 crop year.
+
+In addition, the per capita consumption of raising has declined from 2.07 pounds in 1988 to 1.48 pounds in 2002. This decrease is consistent with the decrease in the per capita consumption of dried fruits in general, which is due to the increasing availability of most types of fresh fruit throughout the year.
+
+While the overall demand for raising has been decreasing (as reflected in the decline in commercial shipments), production has been increasing.
+
+Deliveries of NS dried raisins from producers to handlers reached an all-time high of 432,616 tons in the 2000-01 crop year. This large crop was preceded by two short crop years; deliveries were 240,469 tons in 1998-99 and 299,910 tons in 1999-2000.
+
+Deliveries for the 2000-01 crop year generated for primary markets, and a increased bearing acreage and yields. Deliveries for the 2001-02 crop year were 377,328 tons, and deliveries for the 2002-03 crop year were 388,010 tons. Deliveries through the week ending June 19, 2004, of the current crop year were at 296,625 tons. Three crop years of high production and a large 2001-02 carry inventory have contributed to the industry's burdensome supply of raisins.
+
+The order permits the industry to exercise supply control provisions, which allow for the establishment of through both 10 plus 10 offers plus the off under $ 89.67(j)), then the total free supply is estimated at 403,723 natural condition tons. The econometric model estimates prices to be $63 per ton higher than under an unregulated scenario. This price increase is beneficial to all producers regardless of size and enhances producers' total revenue in comparison to no volume control. Establishing a reserve allows the industry to help stabilize supplies in both domestic and export markets, while improving returns to producers. Free and reserve percentages are established by parietal type, and usually in years when the supply exceeds the trade demand by a large enough margin that the Committee believes volume regulation is necessary to maintain market stability. Accordingly, in assessing whether to apply volume regulation or, as an alternative, not to apply such regulation, it has been determined that volume regulation is warranted this season for only one of the nine raisin varietal types defined under the order.
+
+The free and reserve percentages established by this rule release the full trade demand and apply uniformly to all handlers in the industry, regardless of size. For NS raisins, with the exception of the 1998-99 crop year, small and large raisin producers and handlers have been operating under volume regulation percentages every year since 1983-84. There are no known additional costs incurred by small handlers that are not incurred by large handlers. While the level of benefits of this rulemaking are difficult to quantify, the stabilizing effects of volume regulation impact small and large handlers positively by helping them maintain and expand markets even though raisin supplies fluctuate widely from season to season. Likewise, price

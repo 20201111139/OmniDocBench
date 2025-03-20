@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"总结\n\n春节是中华民族最盛大、最喜庆、最欢乐的节日。希望同学们在春节活动中，做到讲礼仪、重安全，传递祝福，也收获祝福，过一个安全、快乐、吉祥的春节！"}

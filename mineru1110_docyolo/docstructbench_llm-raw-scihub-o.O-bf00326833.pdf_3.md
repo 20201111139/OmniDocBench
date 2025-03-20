@@ -1,0 +1,7 @@
+![](images/adb6837aa138f90948d0c14199ba4aa583e1ff2452351d7524395b66934f4959.jpg)  
+
+![](images/d24ef0e5863eb0629994264034a9f1945f6795e6b094fe7bc569e454536292bd.jpg)  
+Fig.2a-e. Bolus profiles from rat ureter during low diuresis.Two seconds ofrecording timewere evaluatedreadingevery otherframe. From the total of 30 profiles (Fig. 3), a selection of 7 is shown in the figure. Digitized grey levels (y-axis) are plotted against points or pixels in theureter  $\mathbf{\Deltax}$  -axis)beginningwith theproximal ureter at  $\mathbf{x}=0$  The high luminance readings all along the ureter in a and e indicate the absenceof dyebefore and after abolus transit.Notice thecollection of lowgrey levels moving from theleft (b) to theright part of the curve (d) representing an urine bolus travelling from the proximal to the distal ureter.(Magnification  $16\times$  ，  $1\ \mathrm{mm}=18\$  pointsorpixels)  
+
+![](images/fb6db3733ff901ed7628ffa17bed860121b3614202e374980f91e01180cc9c3d.jpg)  
+Fig. 4. Time-distance diagram of bolus profiles. X-axis: time in seconds (30frames  $\r=2$  sec); y-axis: length along ureter in pixels, beginning in the upper ureter (0) down to the lower third (180).The black shaded curve shows the position and length of the bolus at any given point of time. The upper slope indicates the velocity of the trailing end of the bolus (determined by the contraction ring); the lower slope indicates the velocity of the leading end of the bolus. In this example both velocities arealmostidentical  

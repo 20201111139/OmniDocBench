@@ -1,0 +1,160 @@
+# 西南证券研究发展中心
+
+**上海**  
+地址：上海市浦东新区陆家嘴 21世纪大厦 10楼  
+邮编：200120  
+
+**北京**  
+地址：北京市西城区金融大街 35号国际企业大厦 A座 8楼  
+邮编：100033  
+
+**深圳**  
+地址：深圳市福田区益田路 6001号大中华金融大厦 22楼  
+邮编：518038  
+
+**重庆**  
+地址：重庆市江北区金沙门路 32号西南证券大楼 21楼  
+邮编：400025  
+
+# 西南证券机构销售团队
+
+<table>
+  <tr>
+    <th>区域</th>
+    <th>姓名</th>
+    <th>职务</th>
+    <th>座机</th>
+    <th>手机</th>
+    <th>邮箱</th>
+  </tr>
+  <tr>
+    <td rowspan="12">上海</td>
+    <td>蒋诗淇</td>
+    <td>总经理助理，销售总监</td>
+    <td>021-68415309</td>
+    <td>18621310081</td>
+    <td>js@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>樊文</td>
+    <td>销售经理</td>
+    <td>15642960315</td>
+    <td>15642960315</td>
+    <td>clw@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>谭世泽</td>
+    <td>销售经理</td>
+    <td>13122900886</td>
+    <td>13122900886</td>
+    <td>tsz@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>薛世宇</td>
+    <td>销售经理</td>
+    <td>18502146429</td>
+    <td>18502146429</td>
+    <td>xsy@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>辛学静</td>
+    <td>销售经理</td>
+    <td>18616243268</td>
+    <td>18616243268</td>
+    <td>cyyf@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>汪艺</td>
+    <td>销售经理</td>
+    <td>13127920536</td>
+    <td>13127920536</td>
+    <td>wyf@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>张玉梅</td>
+    <td>销售经理</td>
+    <td>18957157330</td>
+    <td>18957157330</td>
+    <td>zym@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>陈偲丹</td>
+    <td>销售经理</td>
+    <td>17863111858</td>
+    <td>17863111858</td>
+    <td>cyyf@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>李圣</td>
+    <td>销售经理</td>
+    <td>18801732511</td>
+    <td>18801732511</td>
+    <td>ylfju@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>千象辉</td>
+    <td>销售经理</td>
+    <td>13262983309</td>
+    <td>13262983309</td>
+    <td>bly@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>聂忻宇</td>
+    <td>销售经理</td>
+    <td>18062680256</td>
+    <td>18062680256</td>
+    <td>lsyu@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>田婷婷</td>
+    <td>销售经理</td>
+    <td>18817337408</td>
+    <td>18817337408</td>
+    <td>tjw@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td rowspan="5">北京</td>
+    <td>王金</td>
+    <td>销售总监</td>
+    <td>18601139362</td>
+    <td>18601139362</td>
+    <td>ylfjy@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>张岚</td>
+    <td>销售副总监</td>
+    <td>18601241803</td>
+    <td>18601241803</td>
+    <td>zhanglan@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>杨敬</td>
+    <td>高级销售经理</td>
+    <td>15652825700</td>
+    <td>15652825700</td>
+    <td>yangwei@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>王一菲</td>
+    <td>销售经理</td>
+    <td>18040060539</td>
+    <td>18040060539</td>
+    <td>wyy@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>姚东</td>
+    <td>销售经理</td>
+    <td>15652026677</td>
+    <td>15652026677</td>
+    <td>yhang@swsc.com.cn</td>
+  </tr>
+  <tr>
+    <td>胡青诚</td>
+    <td>销售经理</td>
+    <td>18800123955</td>
+    <td>18800123955</td>
+    <td>hqx@swsc.com.cn</td>
+  </tr>
+</table>
+
+请务必阅读正文后的重要声明部分

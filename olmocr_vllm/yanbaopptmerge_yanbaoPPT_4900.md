@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"读课文，理清文章结构\n\n第一部分（1—3 段）引出回忆\n\n第二部分（4—5 段）合唱队的描写\n\n第三部分（6—9 段）激情演唱的情景\n\n第四部分（10—11 段）奔赴抗日前线"}

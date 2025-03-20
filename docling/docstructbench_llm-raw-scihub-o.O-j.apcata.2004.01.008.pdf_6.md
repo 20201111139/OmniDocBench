@@ -1,0 +1,15 @@
+- hedron 19 (2000) 2345.
+- [20] E. Ruckenstein 154 (1997) 185
+- [21] R Portillo, T. Lopez, R A Morales, 0. Novaro, Langmuir 12 (1996) 40.
+- [28] €. Vazquez-Vazquez, MC Lopez-Quintela, RD 8 (1998) 991.
+- B 107 (11) (2003) 2427
+- [23] O.B. A Volodin, KJ Klabunde, Chem. Mater. (1997) 468 Koper,
+- 3 (1991) 175
+- Gulgun, 0.0. Popoola, Ceram. Soc. 77 (2) (1994) 531.
+- [25] HP Diffraction Procedures; Wiley; New York, 1962. Klug. X-ray
+- YH.  Chang, J. Alloys Comp. 333 (2002) 147.
+- Darshane, Thermochim Acta 264 (1995) 219.
+- [30] MK
+- [31] MK. Cinibulk, J
+- 184 (1999) 298
+- [27] KS.W. Pietotti J. Rouquerol, Chem. 57 (1985) 603 Sing.

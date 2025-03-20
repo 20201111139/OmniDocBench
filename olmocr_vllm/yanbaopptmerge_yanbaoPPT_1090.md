@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"1. 贾探春简介\n2. 玫瑰花\n3. 杏花\n4. 成立诗社\n5. 才自清明志自高\n6. 贾探春兴利除弊\n7. 巧言解围\n8. 严词申饬\n9. 衰世哀音\n10. 远嫁海疆 / 和亲"}

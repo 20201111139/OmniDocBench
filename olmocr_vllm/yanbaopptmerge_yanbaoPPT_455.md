@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":true,"is_diagram":true,"natural_text":"| 点击添加文本 | 80%  |\n|------------|------|\n| 点击添加文本 | 70%  |\n| 点击添加文本 | 60%  |\n| 点击添加文本 | 30%  |\n\n标题文字内容\n\n单击此处添加文字，添加具体文字内容，您的说明文字在此处添加，此处输入详细的说明文字。"}

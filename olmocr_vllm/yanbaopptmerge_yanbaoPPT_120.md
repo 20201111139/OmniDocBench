@@ -1,0 +1,1 @@
+{"primary_language":"en","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"3. ---Does he speak Chinese or English?\n--- ______.\nA. Yes, he does  \nB. No, he doesn’t  \nC. None  \nD. Neither, he speaks Japanese\n\n【答案】D  \n【解析】这是选择疑问句，两选一，或两都不选，C 是三都以上都不，不合题意。"}

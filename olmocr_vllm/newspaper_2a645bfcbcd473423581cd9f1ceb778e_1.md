@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"全国渔业工作会议提出\n加快推行现代渔业建设\n\n全国畜牧业工作会议提出\n构建畜牧业“六大体系”转变兽医工作方式\n\n全国农机工作会议提出\n重点推进三个根本性转变\n\n全国乡镇企业和农产品加工业工作会议提出\n争取乡镇企业年均增长10%左右"}

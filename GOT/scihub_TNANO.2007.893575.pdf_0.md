@@ -1,0 +1,57 @@
+\title{
+A New Capacitorless 1T DRAM Cell: Surrounding Gate MOSFET With Vertical Channel (SGVC Cell)
+}
+\author{
+Hoon Jeong, Ki-Whan Song, Il Han Park, Tae-Hun Kim, Yeun Seung Lee, Seong-Goo Kim, Jun Seo, \\ Kyoungyong Cho, Kangyoon Lee, Hyungcheol Shin, Member, IEEE, Jong Duk Lee, Member, IEEE, and \\ Byung-Gook Park, Member, IEEE
+}
+\begin{abstract—We propose a surrounding gate MOSFET with vertical channel (SGVC cell) as a IT DRAM cell. To confirm the memory operation of the SGVC cell, we simulated its memory effect and fabricated the highly scalable SGVC cell. According to simulation and measurement results, the SGVC cell can operate as a IT DRAM having a sufficiently large sensing margin. Also, due to its vertical channel structure and common source architecture, it can readily be made into a \(4 \mathrm{~F}^{2}\) cell array.
+Index Terms-Memory effect, IT DRAM cell, sensing margin, surrounding gate, vertical channel.
+\section*{I. INTRODUCTION}
+TO OVERCOME the scalability issues and process complexity of 1 -transistor/1-capacitor DRAM cell, capacitorless 1 -transistor (IT) DRAM cells have been recently proposed and investigated . The mainstream 1T DRAM cell is a floating body transistor cell (FBC) which consists of a MOSFET with its body floating electrically. The FBC is realized by a MOSFET formed on partially depleted siliconon-insulator (PD-SOI). When excess holes exist in the floating body, the cell state can be defined as "1" (decreased \(V_{\mathrm{H}}\) ). On the other hand, the FBC is a new step output of the floating body through forward bias on the output of the long axis. The state can be defined as "0" (increased \(V_{\mathrm{H}}\) ). By measuring the drain current difference between " 1 " and " 0 " states of the cell, we can sense whether the holes are accumulated in the floating body. Because the floating body is used as the storage node, the FBC has no complicated storage capacitor. Therefore, the FBC has a simple process and can have a cell area below \(4 \mathrm{~F}^{2},\), 
+In this work, we propose a surrounding gate MOSFET with vertical channel (SGVC cell) as a IT DR AM cell. Unlike other 1T DRAM cells which are integrated on SOI substrates, the SGVC cell can be more cost effective since it can be fabricated on bulk Si substrates. Also, there is no need for the source contact and line due to the common source structure, which makes
+\footnotetext{
+Manuscript received June 18, 2006: revised December 9, 2006. This work was presented at the 2006 IEEE Silicon Nanoelectronics Workshop. The review of this paper was arranged by Associate Editor T. Hiramoto, and H. Jeong, I. H. Park, T.-H. Kim, Y. S. Lee, H. Shin, J. D. Lee and B.-G. Park are with the School of Electrical Engineering, Seoul National University, Seoul 151-742, Korea (e-mail: ghbht@anver.com).
+K.-W. Song is with the ATD Team, Semiconductor \&R Division, Samsung Technology, China, 2006, 2007.
+S.-G. Kim and K. Lee are with the Technology Development Team, Semiconductor \&R Division, Samsung Electronics Co. Ltd., Youngin 449-711, Korea.
+J. Seo and K. Cho is with the Process Development Team, Semiconductor \&R Division, Engineering, Texas, 2005, Tel. instructions Co. Ltd., Youngin 449-711, Korea.
+}
+Color versions of one of the figures in this paper are available online at http://ieeexplore.ieee.org.
+Digital Object Identifier 10.1109/TNAN02.2007.935755
+TABLE I
+SGVC CELL SIMULATION PARAMETERS
+<table border=1><tr>
+<td></td>
+<td>Program $(1/0)$
+</td>
+<td>Read</td>
+</tr>
+
+
+<tr>
+<td>(Impact Ionization)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Gate Voltage</td>
+<td>$1\mathrm{\leavevmode\nobreak\ V}$</td>
+<td>$1\mathrm{\leavevmode\nobreak\ V}$</td>
+</tr>
+<tr>
+<td>Drain Voltage</td>
+<td>$1\mathrm{\leavevmode\nobreak\ V}(-1\mathrm{\leavevmode\nobreak\ V})$</td>
+<td>$0.1\mathrm{\leavevmode\nobreak\ V}$</td>
+</tr>
+<tr>
+<td>Source Voltage</td>
+<td>$0\mathrm{\leavevmode\nobreak\ V}$</td>
+<td>$0\mathrm{\leavevmode\nobreak\ V}$</td>
+</tr>
+</table>\(\mathrm{L}(\) gate length \()=0.1 \mathrm{um} / \mathrm{t}_{\mathrm{NO}}\) (gate oxide) \(=50 \AA\)
+\(\mathrm{t}_{\mathrm{Si}}\) (Pillar Diameter) \(=60 \mathrm{~nm}\)
+\(\mathrm{N}_{50}\) (source/drain region doping) \(=10^{20} \mathrm{~cm}^{-3}\) (graded doping)
+\(\mathrm{N}_{\text {body }}\) (body doping) \(=10^{18} \mathrm{~cm}^{-3}\)
+\(\mathrm{t}_{\text {program }}=10 \mathrm{~ns}\)
+\(4 \mathrm{~F}^{2}\) structure possible and ultimately leads to superior scalability. The memory operation has been investigated by simulation. Also, we have successfully fabricated a highly scalable SGVC cell and the memory effect is measured for the first time.
+\section*{II. SIMULATION RESULTS}
+Fig. 1 schematically shows the operation principle of an SGVC cell . It can be noted that it has a floating body where holes are accumulated for memory effects. To verify memory cell operation, 2-D device simulation was performed. We used ATLAS as a simulator. Excess holes are generated by impact ionization in this simulation. Simulated parameters are listed in Table I. The difference in the body potential of each state and the \(I_{D}-V_{\mathrm{G}}\) characteristics were extracted first, in order to show the accumulation of holes in the body of the SGVC cell. Fig. 2 shows a comparison of the hole potential between " 1 " state and reference state \(\left(V_{\text {gate }}=0, V_{\text {source }}=0, V_{\text {drain }}=0\right)\). In case of the state " 1 ," through impact ionization in the high field region near the drain, excess holes are injected into the body and then the body potential increase. Fig. 3 shows \(I_{D}-V_{\mathrm{G}}\) characteristics of the SGVC cell. The drain current of " 1 " state is larger than that of " 0 " state. This is due to the increase of the body potential when holes are accumulated into the body through writing operation, hence lowering the threshold voltage, which in turn increases the drain current. Subsequently, the drain current as a function of time was extracted to show

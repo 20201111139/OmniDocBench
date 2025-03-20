@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"第四部分：讲新中国成立后，史沫特莱又来寻找她的中国儿子。"}

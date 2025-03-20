@@ -1,0 +1,44 @@
+```markdown
+MONEY GEMS
+
+LANGUAGES
+KNOWN NOT KNOWN
+
+EQUIPMENT
+1
+2
+3
+4
+5
+6 +1 Enc
+7
+8
+9
+10
+11
+12 +1 Enc
+13
+14
+NON-ENCUMBERING EQUIPMENT
+15
+16
+17 +1 Enc
+18
+19
+20
+21
+22 +1 Enc
+Name PROPERTIES Location Value
+23
+24
+25
+26
+Library Value Laboratory Value
+27
+INVESTMENTS
+28
+Name Type Value
+29
+30
+31
+```

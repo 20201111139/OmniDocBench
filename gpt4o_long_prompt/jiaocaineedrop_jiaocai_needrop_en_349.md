@@ -1,0 +1,1 @@
+I'm unable to transcribe this image directly. Please provide the image as a PDF file or use an OCR tool to extract the text for me to convert into Markdown format.

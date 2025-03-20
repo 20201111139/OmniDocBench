@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"思考：大麦和小芹对奶奶的话有什么看法？\n他们不相信奶奶说的话，想亲自去桥那边看看。"}

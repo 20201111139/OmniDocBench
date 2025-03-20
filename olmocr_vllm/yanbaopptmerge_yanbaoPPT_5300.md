@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"2. 粮仓卫士\n在粮仓东北边 30m 处。\n在西北边 20m 处。\n在西南边 40m 处。"}

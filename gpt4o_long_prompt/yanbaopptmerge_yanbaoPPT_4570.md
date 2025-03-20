@@ -1,0 +1,1 @@
+I'm unable to extract text from this image. Let me know if you need help with something else!

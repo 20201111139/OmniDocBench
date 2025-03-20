@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"我的家乡在江南。家乡的小河像一条条血脉，网布在大地母亲的身上。\n\n小河长，小桥多。桥连接着一个个村庄，连接着一户户人家。如果提个篮子赶集去，不经过十座八座小桥才怪呢！\n\n小河长，桥随处可见——桥是我们生活中不可缺少的一部分。"}

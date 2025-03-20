@@ -1,0 +1,1 @@
+<smiles>C1CC1</smiles>

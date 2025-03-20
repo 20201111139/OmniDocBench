@@ -1,0 +1,16 @@
+"Who are you?" said Lucie. "Have you seen my pocket-handkins?"
+
+
+![](https://web-api.textin.com/ocr_image/external/43b194a5e10f858f.jpg)
+
+The little person made a bob-curtsey-"Oh,yes,if you please'm; my name is Mrs.Tiggy-winkle; oh,yes if you please'm, I'm an excellent clear-starcher!" And she took something out of a clothes-basket,and spread it on the ironing-blanket.
+
+"What's that thing?" said Lucie-"that's not my pocket-handkin?"
+
+"Oh no, if you please'm;that's a little scarlet waist-coat belonging to Cock Robin!"
+
+
+![](https://web-api.textin.com/ocr_image/external/f1f5fd9a5a849deb.jpg)
+
+And she ioned it and folded it, and put it on one side.
+

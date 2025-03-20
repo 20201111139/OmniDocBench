@@ -1,0 +1,1 @@
+{"primary_language":"en","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"Listen and say\n\nHow many teachers are there in the man’s school?\n\nThere are fifty teachers in his school."}

@@ -1,0 +1,112 @@
+```markdown
+<table>
+  <tr>
+    <th>HEX ROW</th>
+    <th>WINTER MINUS</th>
+    <th>AXIAL TILT FACTOR</th>
+    <th>AXIAL TILT TEMP MINUS IN WINTER</th>
+    <th>NIGHTTIME MINUS</th>
+    <th>ORBIT ECC MINUS</th>
+    <th>LOWEST TEMP FOR HEX 113 ROW</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>-45</td>
+    <td>0.75</td>
+    <td>-34</td>
+    <td>101</td>
+    <td>0.0</td>
+    <td>-130</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>-45</td>
+    <td>1</td>
+    <td>-45</td>
+    <th>101</th>
+    <td>0.0</td>
+    <td>-147</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>-45</td>
+    <td>1</td>
+     <td>-45</td>
+    <td>101</td>
+    <td>0.0</th>
+    <td>-153</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>-45</td>
+    <td>1</td>
+   <td>-45</td>
+    <td>101</td>
+    <td>1.0</td>
+    <td>-159</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>-45</td>
+    <td>1</td>
+  <td>-45</td>
+    <td>101</td>
+    <td>2.0</td>
+    <td>-165</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>-45</td>
+    <td>1</td>
+ <td>-45</td>
+    <td>101</td>
+    <td>3.0</td>
+    <td>-171</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>-45</td>
+    <td>1</td>
+<td>-45</td>
+    <td>101</td>
+    <td>4.0</td>
+    <td>-177</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>-45</td>
+    <td>1</td>
+</td>
+    <td>101</td>
+    <td>5.0</td>
+    <td>-183</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>-45</td>
+    <td>1</td>
+ </td>
+    <td>101</td>
+    <td>6.0</td>
+    <td>-189</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>-45</td>
+    <td>1</td>
+<</td>
+    <td>101</td>
+    <td>7.0</td>
+    <td>-195</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>-45</td>
+    <td>1</td>
+></td>
+    <td>101</td>
+    <td>8.0</td>
+    <td>-201</td>
+  </tr>
+</table>
+```

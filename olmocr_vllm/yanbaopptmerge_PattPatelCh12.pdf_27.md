@@ -1,0 +1,1 @@
+{"primary_language":"en","is_rotation_valid":true,"rotation_correction":0,"is_table":true,"is_diagram":false,"natural_text":"Example: Symbol Table\n\n| Name     | Type | Offset | Scope |\n|----------|------|--------|-------|\n| inGlobal | int  | 0      | global|\n| inLocal  | int  | 0      | main  |\n| outLocalA| int  | -1     | main  |\n| outLocalB| int  | -2     | main  |"}

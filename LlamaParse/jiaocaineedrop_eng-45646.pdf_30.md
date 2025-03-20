@@ -1,0 +1,30 @@
+# Risk
+
+| |Likelihood| |Impact|
+|---|---|---|---|
+|Vulnerability| |Threat| |
+|Capability| |Opportunity|Intent|
+
+Figure 1.4.1.1: DoD Risk Model. DoD Risk Model" by Unknown, U.S. Naval Academy Cyber Science Dept is in the Public Domain, CCO)
+
+In the cyber domain; just as in all domains, there are various factors that go into assessing risk: Risk Assessment can be viewed as a function with inputs, process; and outputs general risk is viewed function of likelihood of occurrence of an event and impact of an event; risk (likelihood, impact occurring, the risk severity increases, and vice versa. This is also the case with impact; if the impact of a negative event occurring increases, the risk severity increases.
+
+# Likelihood of Occurrence
+
+Likelihood of occurrence can be decomposed into two main components: threat and vulnerability. Threat is any circumstance event that has the potential to adversely impact our system. Threat can be adversarial (purposely caused by person) non-adversarial (caused by accident or natural event such as a hurricane). Vulnerability represents weakness in an information system that can be exploited, often by an adversarial threat actor:
+
+Not all vulnerabilities are equal, there are factors that we can assess vulnerability with. The risk assessment team will ask and answer questions such as (OWASP):
+
+- (Discoverable) How easy is it for an adversary to discover the vulnerability?
+- (Exploitable) How easy is it for an adversary to exploit the vulnerability?
+- (Awareness) How well known is the vulnerability?
+- (Detectable) How likely is an exploit to be detected?
+
+Just as vulnerabilities, threats are also assessed using various factors. The risk assessment team will ask and answer questions such as (OWASP):
+
+- (Capability) How technically skilled is an adversary?
+- (Capability) How much does the adversary know about the target system?
+- (Opportunity) Does the adversary have the resources to exploit a vulnerability?
+- (Opportunity) Is the adversary in a position to exploit vulnerability?
+- (Intent) How motivated is an adversary to find and exploit vulnerability?
+- (Intent) Does the actor performing the exploit intend harm?

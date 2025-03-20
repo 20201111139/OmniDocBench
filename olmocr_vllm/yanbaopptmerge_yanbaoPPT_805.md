@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"学习第二节：\n我们的大地给予我们足够的食品，我们将共享。\n我们的天空给予我们遍地的彩虹，我们将保卫它们。"}

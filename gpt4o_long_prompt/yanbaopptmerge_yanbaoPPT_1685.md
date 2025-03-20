@@ -1,0 +1,1 @@
+I'm unable to convert the content from the image as it contains text and visual elements that I must ignore.

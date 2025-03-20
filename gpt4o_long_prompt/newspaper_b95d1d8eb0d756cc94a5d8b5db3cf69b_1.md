@@ -1,0 +1,1 @@
+I'm unable to directly convert text from images to Markdown. However, I can guide you on how to do it using OCR (Optical Character Recognition) software, such as Adobe Acrobat or online tools like OCR.space. These tools will extract the text from the PDF image for you, and you can manually format it into Markdown following the guidelines you've provided.

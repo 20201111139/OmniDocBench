@@ -1,0 +1,160 @@
+Table 1. Bacterial strains
+
+<table>
+  <tr>
+    <td>Strain</td>
+    <td>Relevant characteristics</td>
+    <td>Source or reference</td>
+  </tr>
+  <tr>
+    <td>W3110</td>
+    <td>wild type</td>
+    <td>Laboratory stock</td>
+  </tr>
+  <tr>
+    <td>JE7951</td>
+    <td>spr-1</td>
+    <td>(7)</td>
+  </tr>
+  <tr>
+    <td>JE7934</td>
+    <td>prcA::neo</td>
+    <td>(7)</td>
+  </tr>
+  <tr>
+    <td>JE7456</td>
+    <td>str xyl argG</td>
+    <td>Laboratory stock</td>
+  </tr>
+  <tr>
+    <td>CAG12072</td>
+    <td>zgj-203::Tn10</td>
+    <td>(26)</td>
+  </tr>
+  <tr>
+    <td>TOP10</td>
+    <td>recA1 araD139 Δ(araA-leu) 7697</td>
+    <td>Invitrogen</td>
+  </tr>
+  <tr>
+    <td>Rev1</td>
+    <td>spr-1 nlpI1</td>
+    <td>Spontaneously from JE7951</td>
+  </tr>
+  <tr>
+    <td>Rev2</td>
+    <td>spr-1 nlpI2</td>
+    <td>Spontaneously from JE7951</td>
+  </tr>
+  <tr>
+    <td>Rev3</td>
+    <td>spr-1 nlpI3</td>
+    <td>Spontaneously from JE7951</td>
+  </tr>
+  <tr>
+    <td>Rev4</td>
+    <td>spr-1 nlpI4</td>
+    <td>Spontaneously from JE7951</td>
+  </tr>
+  <tr>
+    <td>Rev5</td>
+    <td>spr-1 nlpI5</td>
+    <td>Spontaneously from JE7951</td>
+  </tr>
+  <tr>
+    <td>Rev6</td>
+    <td>spr-1 nlpI6</td>
+    <td>Spontaneously from JE7951</td>
+  </tr>
+  <tr>
+    <td>TAR1</td>
+    <td>str xyl argG zgj-203::Tn10</td>
+    <td>CAG12072 (P1) × JE7456</td>
+  </tr>
+  <tr>
+    <td>TAR2</td>
+    <td>argG zgj-203::Tn10</td>
+    <td>TAR1 (P1) × W3110</td>
+  </tr>
+  <tr>
+    <td>TAR3</td>
+    <td>spr-1 argG zgj-203::Tn10</td>
+    <td>TAR1 (P1) × JE7951</td>
+  </tr>
+  <tr>
+    <td>KM354</td>
+    <td>recJ pTP223 gam bet exo</td>
+    <td>(14)</td>
+  </tr>
+  <tr>
+    <td>MU2</td>
+    <td>nlpI::cm</td>
+    <td>Derived from KM354 by transformation with linearized nlpI::cm DNA</td>
+  </tr>
+  <tr>
+    <td>MU24</td>
+    <td>nlpI::cm</td>
+    <td>MU2 (P1) × W3110</td>
+  </tr>
+  <tr>
+    <td>MU25</td>
+    <td>nlpI1</td>
+    <td>Rev1 (P1) × TAR2</td>
+  </tr>
+  <tr>
+    <td>MU26</td>
+    <td>nlpI2</td>
+    <td>Rev2 (P1) × TAR2</td>
+  </tr>
+  <tr>
+    <td>MU27</td>
+    <td>nlpI3</td>
+    <td>Rev3 (P1) × TAR2</td>
+  </tr>
+  <tr>
+    <td>MU124</td>
+    <td>spr-1 nlpI::cm</td>
+    <td>MU2 (P1) × JE7951</td>
+  </tr>
+  <tr>
+    <td>MU125</td>
+    <td>spr-1 nlpI1</td>
+    <td>Rev1 (P1) × TAR3</td>
+  </tr>
+  <tr>
+    <td>MU126</td>
+    <td>spr-1 nlpI2</td>
+    <td>Rev2 (P1) × TAR3</td>
+  </tr>
+  <tr>
+    <td>MU127</td>
+    <td>spr-1 nlpI3</td>
+    <td>Rev3 (P1) × TAR3</td>
+  </tr>
+  <tr>
+    <td>PN1</td>
+    <td>prcA::neo nlpI::cm</td>
+    <td>MU24 (P1) × JE7934</td>
+  </tr>
+  <tr>
+    <td>HSB1</td>
+    <td>ibpB::cm</td>
+    <td>Derived from KM354 by transformation with linearized ibpB::cm DNA</td>
+  </tr>
+  <tr>
+    <td>HSB2</td>
+    <td>ibpB::cm</td>
+    <td>HSB1 (P1) × W3110</td>
+  </tr>
+  <tr>
+    <td>HSB3</td>
+    <td>spr-1 ibpB::cm</td>
+    <td>HSB1 (P1) × JE7951</td>
+  </tr>
+</table>
+
+(underlined), 5'-TGGGCCATGGAGGCCTTTTTTGC-3' and 5'-GTCACCATGGGCTGGTCCGATTCTGCC-3'. The amplified DNA was digested with NcoI, then inserted into the same site of pBAD Myc-His C. To construct pNI6 encoding the hexa-histidine-tagged NlpI with the amino-acid substitution G103D, the mutated nlpI in the chromosomal DNA of Rev3 (spr-1 nlpI3) was amplified by PCR using the primers described above, and the amplified DNA was digested with the NcoI and inserted into the same site of pBAD Myc-His C. To construct pNI7 encoding the truncated and hexa-histidine-tagged NlpI, the fragment containing the truncated nlpI was amplified by PCR using the forward primer 5'-TGGGCCATGGAGCCTTTTTTGC-3' and the reverse primer 5'-GGTCCATGGGTCCTGGGCC-3'. The amplified DNA was digested with NcoI, then inserted into the same site of pBAD Myc-His C. pNI8 and pNI9 were constructed in the same way as pNI7 except that 5'-CATCCATGGCCTGGCCCAGG-3' or 5'-CTTCCATGGGGCCAGGAGC-3', respectively, was used as the reverse primer in PCR. To construct pNI10 encoding NlpI, the nlpI in the chromosomal DNA of W3110 was amplified by PCR using the forward primer containing the NcoI site (underlined) 5'-TGGGCCATGGAGCCTTTTTTGC-3' and the reverse primer containing the BamHI site (underlined) 5'-TGGATCCGGCTCAAAGTAGG-3'. The amplified DNA was digested with NcoI and BamHI and inserted into the same sites of pTrc99A. pNI12, pNI13, and pNI14 were constructed in the same way as pNI10 except that 5'-CCAGGGATCCTTAGTCCTGGCC-3', 5'-GTCAGGATCCTACTGGCCCAG-3', or 5'-ATCTGGATCCTAGCCCAGGAG-3', respectively, was used as the reverse primer containing the BamHI site (underlined) in PCR. The amplified DNA was digested with NcoI and BamHI and then inserted into the same sites of pTrc99A.
+
+Expression and Purification of Hexa-Histidine-Tagged NlpI Protein—E. coli cells were transformed with the recombinant plasmids. The transformants were grown in L broth at 42°C for 4 h, then incubated in L broth containing 0.01% arabinose at 42°C for 4 h for expression of the fusion genes. Cells from 400 ml of medium were collected, washed once with ice-cold 50 mM sodium phosphate buffer (pH 8.0) containing 300 mM NaCl (buffer A), suspended in 4 ml of the buffer A containing 10 mM imidazole and 1% Triton X-100, and disrupted by sonication with cooling by ice-water. The mixture was centrifuged for 15 min at 17,700 ×g to obtain a clear lysate. Four milliliters of the supernatant was mixed with 1 ml of nickel-nitrilotriacetic acid (Ni-NTA) resin and incubated with rotation for 2 h at 4°C. The mixture was loaded onto an open column. The column was washed with 4 ml each of buffer A containing 20 mM imidazole and then containing 40 mM imidazole. The bound proteins were eluted with 1.2 ml of buffer A containing 100 mM imidazole, and fractions of 0.4 ml were collected.
+
+Mass Spectrometry Analysis—An electrospray ion trap mass spectrometer (LCQ DECA XP ion trap mass system, Thermo Electron) coupled online with a capillary HPLC (Magic 2002, Michrom BioResources) was used to acquire MS/MS spectra. A 0.2 × 50 mm MAGICMS C18

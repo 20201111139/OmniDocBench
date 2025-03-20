@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"课后作业\n\n1. 课后习题；\n2. 完成练习册本课时的习题。"}

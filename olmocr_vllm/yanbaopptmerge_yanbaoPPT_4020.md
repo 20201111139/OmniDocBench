@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"同学们，通过学习刚才的古诗，你都学会了哪些字？\n\n山村\n一去二三里，\n烟村四五家，\n亭台六七座，\n八九十枝花。"}

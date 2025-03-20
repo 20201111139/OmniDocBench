@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"财政助农，福建茶农迎来又一个春天\n\n老外现场讲“剪枝”\n21年砺神剑 21次“升级营”\n\n农业市场信息工作成效显著\n\n积极行动，保种保供\n\n吉林多举措扶持蔬菜生产"}

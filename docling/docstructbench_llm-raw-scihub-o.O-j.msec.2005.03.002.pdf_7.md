@@ -1,0 +1,21 @@
+- [3] YC. modulus of plasma-sprayed hydroxyapatite coating on Ti substrate in Yang.
+- hydroxyapatite   and   zirconia; Jpn. Ceram. Soc. 95 (8) (1987) 806 809
+- C.Y The shear strength and the failure mode of plasma sprayed hydroxyapatite coating to bone: Mater: Res 27 (1993) 1315 -1327
+- [5] YC. Tsui, C Clyne;  Plasma   sprayed   hydroxyapatite Mechanical properties   and 2029
+- dispersed phase; J. Am. Ceram. Soc. 59 (1976) 49-51
+- composites; J Am. Ceram.
+- [8] M. Ruhle, Evans, Mcmeeking, PG. Charalambides, 2701 -2710.
+- [19] KA Khor; Gu, Pan, P Cheang; Microstructure and mechanical   properties of plasma   sprayed HAYSZITi 6Al~4V 4017
+- Phase   transformation 669. during
+- [11] T. Kasuga, M. Yoshda AJ. Ikushima; Tuchiya, H Kusakari, Stability of zirconia-toughened bioactive glasslceramics: in vivo study 4 (1993) 36 39. using dogs;
+- [12] JM Yeh. Sintering of hydroxyapatitelzirconia  composite
+- Somiya; M. tetragonal zirconia particles dispersion prepared by HIP postsintering, J. Jpn. Ceram. Soc. 99 (3) (1991) 196-203 .
+- [14] N. Tamari, M. phases of composite ceramics obtained by sintering of a mixture of
+- [20] ASTM E-855-90, Standard Test Methods for Bend Testing of Metallic Flat   Materials for   Sparing   Applications   Involving American   Society for Testing   Materials; 1990
+- RC Kuznicki; LH. Cadoff, Stabilization of tetragonal phase in polycrystalline zirconia; J. Mater. Sci 12 (12) (1977) 2421 2426.
+- [22] N. Bambaa, Choab, Sekinoc , K Niiharac , Mechanical properties and microstructure for 3 mol% doped zirconialsilicon Eur: Ceram. Soc. 23 (2003) 773 780 yttria
+- WM. fine grained B-phase; J.
+- Hench, An Introduction to Bioceramics, 40.
+- vitro test system for dental  materials; J Oral Maxillofac . (1990) 606 611. Lang.
+- R Mater. Sci.
+- [18] U. Meyer; DH Szulczewski, RH. D.B Jones, Biological evaluation of an ionomeric bone cement by osteoblast   cell culture   methods, Biomaterials 14 (1993) 917-924.

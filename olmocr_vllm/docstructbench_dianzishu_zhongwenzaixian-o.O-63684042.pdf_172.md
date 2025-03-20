@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"05 按【色阶】添加“色阶”图层，设置色阶参数，增强画面对比度。\n\n06 按下快捷键 Ctrl+Shift+Alt+E，盖印可见图层。\n\n07 复制“盖印”图层，将复制的图层名称修改为“二次构图”。单击工具箱中的“矩形选框工具”按钮，在裙子底部绘制选区，按下快捷键 Ctrl+T 将选区内的图像进行变形，使裙子更长。变形完成后，按下快捷键 Ctrl+Enter 确定，继续按下快捷键 Ctrl+D 取消选区。"}

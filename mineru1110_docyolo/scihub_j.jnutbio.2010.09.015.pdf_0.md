@@ -1,0 +1,23 @@
+# Proadipogenic effects of lactoferrin in human subcutaneous and visceral preadipocytes  
+
+Jose Maria Moreno-Navarrete, Francisco Ortega, Monica Sabater, Wifredo Ricart, José Manuel Fernandez-Real,MD,PhD\*  
+
+partmentofDiabetes,EndocrinologyandNutrition,CIBEROBNFisiopatologiadelaObesidadyNutricionCB06/03/010andGironaBiomedicalResearchInstituteIdIBGilGironapai  
+
+Received 6June2010;received inrevised form20September2010;accepted23September201C  
+
+# Abstract  
+
+Lactoferrinhasbeen associatedwithinsulinsensitivityinvivo andinvitro studies.We aimed to testtheeffectsof lactoferrinonhuman subcutaneous and visceral preadipocytes.Human subcutaneous and visceral preadipocytes were cultured with increasing lactoferrin (hLf,0.1,1,  $10\ \mathrm{{[uM}]}$  under differentiation conditions.Theeffectsof lactoferrinon adipogenesiswere studiedthroughtheexpressionofdifferent adipogenicandinflammatorymarkersMPKactivation and Retinoblastoma 1 (RB1) activity.Theresponse to insulin was evaluated through  ${^{5}\mathrm{er473}}{\mathrm{AKT}}$  phosphorylation.lIn bothsubcutaneous and visceral preadipocytes, lactoferrin (1 and  $10\ \mathrm{{[HM]}}$  increased adipogenic gene expressions and protein levels (fatty acid synthase,  $\mathrm{PPAR}\gamma$  FABP4, ADIPOQ, ACC and STAMP2) and decreased inflammatory markers (IL8, IL6 and MCP1) dose-dependently in parallel to increased insulin-induced  ${}^{5}\mathrm{er473}\mathrm{AKT}$  phosphorylation. In addition to these adipogenic effects, lactoferrin decreased significantly AMPK activity (reducing DThri172AMPK and  ${\mathsf{P S e r79}}_{\mathsf{A C C}})$  and RB1 activity (increasing the psers7/81B1/1 ratio).Inconclusion,these results suggest that lactoferrin promotes adipogenesis in human adipocytesbyenhancing insulin signaling and inhibiting RB1 and AMPK activities.  
+
+$\widehat{(\mathbb{C})}$  2011 Elsevier Inc.All rights reserved.  
+
+Keywords:Lactoferrin;Adipogenesisand insulin action  
+
+# 1.Introduction  
+
+Adipose tissueisrecognized as an endocrine organ thatplays an important roleinhuman diseases such astype 2 diabetes andcancer. Adipogenesis can be divided in two stages: adipocyte commitment of multipotent stem cells and terminaldifferentiation to mature adipocytes.Adipocytecommitmentundertissue culture conditions is achieved by cell confluency. Cells under high confluency can be furtherinduced tobecomemature adipocytesbyvarious adipogenic inducers.Transcriptional pathwaysimportant for thelater stages of adipogenesishavebeenextensivelystudied.Inparticular,several key transcriptionfactorssuchasPPARyandmembersoftheC/EBPprotein family play pivotal roles in dictating cascades of transcriptional activationrequiredforestablishingtheterminally differentiatedstate [1,2].Thenegativeeffectsofinflammatorymediatorsonadipocyte differentiation has been extensively reported [3,4],leading to concomitantbluntingofinsulin action.  
+
+Lactoferrinisapleiotropicglycoprotein  $(80\,\mathrm{kDa})$  andaprominent componentof thefirstline ofmammalian host defense,actingon specific lactoferrin receptors that exist in a variety of cells,like monocytes,lymphocytes and adipocytes[5].Its expression is upregulated inresponsetoinflammatorystimuli[5].Lactoferrin is able to bind and buffer several pathogen-associated molecular patterns such as lipopolysaccharide,viral components and soluble components of the extracellularmatrix[6].This abilityis associated with the putativelactoferrin anti-inflammatory activity,as demonstrated in several studies[7-10].Lactoferrin alsoparticipates in theregulation of cellular growth and differentiation [11,12].In primary osteoblasts, lactoferrinstimulatedproliferationanddifferentiationandactedasa survival factor, activating PI3 kinase-dependent AKT signaling, inhibiting apoptosis induced by serum withdrawal and inhibiting osteoclastogenesisin amurinebonemarrow culture[13].Recently, wehavereportedthatlactoferrinis associatedwithinsulinsensitivity in vivo in humans and in vitro (increasing 473serAKT phosphorylation) inHepG2and3T3-L1cell lines.We alsoshowed thatlactoferrin inhibited adipogenesis in 3T3-L1 cell line through the increase of AMPKandRetinoblastoma 1(RB1) activity[14,15].  
+
+Lactoferrinisfoundin considerableconcentrationsinbreastmilk  $\mathrm{~\bar{~1~}m g/m l)}$  andincolostrum  $[7\mathrm{~mg/ml})$  .LFisanaturalcomponentof breast milk which is ingested by infants. Lactoferrin administration in  

@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"你我的相遇是如此的契合\n让我们演绎一段完美爱情\n星星为我们见证！"}

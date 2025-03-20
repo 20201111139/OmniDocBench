@@ -1,0 +1,91 @@
+# 25.
+
+Who won the first place in the "SuperGirl" singing competition?
+
+A. Who B. When C. Where D. Why
+
+# 26.
+
+Shops in big cities are __________ than those in the country:
+
+A. expensive B. more expensive C. most expensive D. the most expensive
+
+# 27.
+
+You __________ play football in the street: It's too dangerous.
+
+A. wouldn't B. needn't C. mustn't D. couldn't
+
+# 28.
+
+It's snowing now. You'd better __________ your car slowly on a snowy day:
+
+A. drive B. drove C. driving D. to drive
+
+# 29.
+
+My little brother asks me __________ him a story every day:
+
+A. tell B. told C. telling D. to tell
+
+# 30.
+
+Today, more and more people enjoy __________ things online.
+
+A. buy B. bought C. buying D. to buy
+
+# 31.
+
+Don't turn on the radio. Grandpa __________ now.
+
+A. sleeps B. is sleeping C. has slept D. slept
+
+# 32.
+
+Have you ever seen the cartoon Tom and Jerry?
+
+A. Yes, I have seen it many times. B. saw C. will see D. have seen
+
+# 33.
+
+The pizza __________ by my mum just now. Would you like to have some?
+
+Yes, please.
+
+A. was made B. made C. is made D. makes
+
+# 34.
+
+Could you please tell us __________ the World Expo in Shanghai?
+
+A. when you will visit B. why you will visit C. when will you visit D. why will you visit
+
+# 35.
+
+Yes, please. I want to buy __________ some CDs for my son.
+
+A. How do you do B. What's wrong with you C. Can I help you D. Is that Mary speaking
+
+# 36.
+
+I watched as my little brother was caught in the act: He was sitting in the corner of the living room; __________ in one hand and my father's hymnbook in the other:
+
+# 37.
+
+As my father walked into the room, my brother cowered slightly. He sensed that he had done something __________.
+
+# 38.
+
+I could see that he had __________ my father's new hymnal and scribbled in it. Now he was waiting for his punishment:
+
+# 39.
+
+For my father, books were knowledge. They were important to him. And yet he loved his children. What he did next was __________.
+
+# 40.
+
+Instead of punishing my brother, he sat down, took the pen from my brother's hand, and then wrote in the book himself, alongside the scribbles John had made: "Work 1959, age 2. How many times have I looked into your beautiful face and into your warm eyes looking up at me."
+
+WWW.Jinghua.com
+
+7HR#hek: 400-650-7766 (9:00 - 21:00 everyday)

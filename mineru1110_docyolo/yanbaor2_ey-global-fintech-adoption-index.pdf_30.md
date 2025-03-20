@@ -1,0 +1,4 @@
+FIGURE18ListofSMEFinTechservices   
+
+
+<td><table  border="1"><thead><tr><td><b>Catergories</b></td><td><b>Services</b></td></tr></thead><tbody><tr><td rowspan="4">Banking and payments</td><td>Online foreign exchange</td></tr><tr><td>Digital-onlybranchlessbusinessbank</td></tr><tr><td>Online payments processors</td></tr><tr><td>Mobile Point of Sale (mPoS) payment machines and readers</td></tr><tr><td rowspan="3">Financialmanagement</td><td>Onlinebilling and invoicemanagement tools</td></tr><tr><td>Online cashflow and liquidity management tools</td></tr><tr><td>Online bookkeeping and payrolltools</td></tr><tr><td rowspan="4">Financing</td><td>Onlinelendingplatforms</td></tr><tr><td>Online marketplaces,aggregators andbrokers</td></tr><tr><td>Online equity (including equity crowdfunding)and debtsecurities</td></tr><tr><td>Online invoicefinancing and dynamic discounting</td></tr><tr><td>Insurance</td><td>Insurancepremium comparison sites</td></tr></tbody></table></td>  

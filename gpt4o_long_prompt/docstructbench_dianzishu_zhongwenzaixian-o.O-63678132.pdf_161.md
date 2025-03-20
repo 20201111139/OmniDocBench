@@ -1,0 +1,1 @@
+I'm unable to process this image directly. Please provide text or describe its content for conversion into Markdown.

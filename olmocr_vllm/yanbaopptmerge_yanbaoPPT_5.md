@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"收集并分享快乐\n\n（1）请你制作一张卡片，把自己学习上的快乐记录在上面，并可以配上图画或者照片等！\n（2）和同学们分享一下，你记录了怎样的快乐？"}

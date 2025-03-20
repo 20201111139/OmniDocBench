@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":false,"natural_text":"三、《陈情表》课内素材积累：\n李密为照顾年迈的祖母，向朝廷请求辞不赴职，《陈情表》写得入理入情。\n\n写作适用角度：\n从李密角度思考\n1、百善孝为先    2、语言的艺术    3、善意的谎言\n4、情与理    5、取舍    6、真诚的力量\n7、面对选择\n从晋武帝角度思考\n1、宽容的力量    2、气度    3、尊重\n从李密与祖母的关系角度思考\n1、感恩    2、源泉    3、当今孝文化的缺失的反思"}

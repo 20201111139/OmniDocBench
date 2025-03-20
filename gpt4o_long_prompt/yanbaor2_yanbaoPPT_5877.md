@@ -1,0 +1,114 @@
+<table>
+    <tr>
+        <th>一级主题词</th>
+        <th>二级主题词</th>
+        <th>三级主题词</th>
+        <th>四级主题词</th>
+        <th>五级主题词</th>
+        <th>六级主题词</th>
+        <th>七级主题词</th>
+    </tr>
+    <tr>
+        <td rowspan="13">大数据</td>
+        <td rowspan="3">基础技术</td>
+        <td>分布式系统识别</td>
+        <td>Paxos算法</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>再点击问题与算法</td>
+        <td>Raft算法</td>
+        <td rowspan="2">再点击问题</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2">数据分片逻辑</td>
+        <td>BFT算法</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>数据缓存一致性与数据结构</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2">数据采集</td>
+        <td>系统日志采集</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>外部数据采集</td>
+        <td>IOT设备数据采集</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2">数据传输</td>
+        <td>消息队列</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>数据同步</td>
+        <td>数据订阅</td>
+        <td>缓存化</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="3">数据存储</td>
+        <td>物理存储</td>
+        <td>分布式文件/对象存储系统</td>
+        <td>分布式关系型数据库</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>键值存储数据库</td>
+        <td>图数据库</td>
+        <td>列存储数据库</td>
+        <td>文档数据库</td>
+        <td>时序数据库</td>
+    </tr>
+    <tr>
+        <td>RDF数据库</td>
+        <td>多样化数据库</td>
+        <td>事件存储数据库</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2">数据处理</td>
+        <td>数据计算</td>
+        <td>数据综合</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>数据湖</td>
+        <td>数据分析</td>
+        <td>数据挖掘</td>
+        <td>平台工具</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2">数据应用</td>
+        <td>数据服务</td>
+        <td>数据可视化</td>
+        <td>数据共享</td>
+        <td>数据策略</td>
+        <td></td>
+    </tr>
+</table>

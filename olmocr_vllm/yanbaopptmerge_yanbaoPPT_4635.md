@@ -1,0 +1,1 @@
+{"primary_language":"zh","is_rotation_valid":true,"rotation_correction":0,"is_table":false,"is_diagram":true,"natural_text":"它们的村子散布在森林边缘的小丘上。这里，很多的黑甲虫村民，熙熙攘攘地往来。"}
